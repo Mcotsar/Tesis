@@ -1,0 +1,16 @@
+parlamento,belen,72.45
+parlamento,delicias,82.01
+parlamento,malpica,74.77
+belen,parlamento,72.45
+belen,delicias,22.82
+belen,malpica,8.73
+delicias,parlamento,82.01
+delicias,belen,22.82
+delicias,malpica,14.19
+malpica,parlamento,74.77
+malpica,belen,8.73
+malpica,delicias,14.19
+villaseca,belen,25.23
+villaseca,malpica,20.97
+villaseca,delicias,22.45
+villaseca,parlamento,95.33

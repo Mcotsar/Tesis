@@ -1,0 +1,1766 @@
+,id,lat,long,type,site,code,locationtype,country
+3,15641,56.333333,-3.333333,Dressel 20,Abernethy,PARVA,Military Camp,Britannia
+4,15709,56.333333,-3.333333,Dressel 20,Abernethy,FCCVC,Military Camp,Britannia
+5,15710,56.333333,-3.333333,Dressel 20,Abernethy,FCCVC,Military Camp,Britannia
+6,15906,56.333333,-3.333333,Dressel 20,Abernethy,DES,Military Camp,Britannia
+7,15954,56.333333,-3.333333,Dressel 20,Abernethy,LFC,Military Camp,Britannia
+8,15955,56.333333,-3.333333,Dressel 20,Abernethy,LFC,Military Camp,Britannia
+9,16237,56.333333,-3.333333,Dressel 20,Abernethy,LIVNIMELISSI,Military Camp,Britannia
+10,16248,56.333333,-3.333333,Dressel 20,Abernethy,LIVNIMELISSI,Military Camp,Britannia
+11,16465,56.333333,-3.333333,Dressel 20,Abernethy,PNN,Military Camp,Britannia
+12,16466,56.333333,-3.333333,Dressel 20,Abernethy,PNN,Military Camp,Britannia
+13,16467,56.333333,-3.333333,Dressel 20,Abernethy,PNN,Military Camp,Britannia
+14,16468,56.333333,-3.333333,Dressel 20,Abernethy,PNN,Military Camp,Britannia
+15,16469,56.333333,-3.333333,Dressel 20,Abernethy,PNN,Military Camp,Britannia
+16,16886,56.333333,-3.333333,Dressel 20,Abernethy,FSCIMNIANO,Military Camp,Britannia
+17,16889,56.333333,-3.333333,Dressel 20,Abernethy,FSCIMNIANO,Military Camp,Britannia
+18,16896,56.333333,-3.333333,Dressel 20,Abernethy,FSCIMNIANO,Military Camp,Britannia
+19,16900,56.333333,-3.333333,Dressel 20,Abernethy,FSCIMNIANO,Military Camp,Britannia
+20,16901,56.333333,-3.333333,Dressel 20,Abernethy,FSCIMNIANO,Military Camp,Britannia
+21,16902,56.333333,-3.333333,Dressel 20,Abernethy,FSCIMNIANO,Military Camp,Britannia
+22,17147,56.333333,-3.333333,Dressel 20,Abernethy,PQ,Military Camp,Britannia
+23,15638,54.083333,-1.383333,Dressel 20,Aldborough,ARVA,Civil Settlement,Britannia
+24,15750,54.083333,-1.383333,Dressel 20,Aldborough,LCFPC,Civil Settlement,Britannia
+25,15901,54.083333,-1.383333,Dressel 20,Aldborough,CEFPR,Civil Settlement,Britannia
+26,16114,54.083333,-1.383333,Dressel 20,Aldborough,CIPALMAB,Civil Settlement,Britannia
+27,16697,54.083333,-1.383333,Dressel 20,Aldborough,RIVS,Civil Settlement,Britannia
+28,17035,54.083333,-1.383333,Dressel 20,Aldborough,QVS,Civil Settlement,Britannia
+29,20494,54.083333,-1.383333,Dressel 20,Aldborough,LCFP,Civil Settlement,Britannia
+34,15447,54.966667,-2.333333,Dressel 20,Bardon Mill,TANP,Military Camp,Britannia
+35,15872,54.966667,-2.333333,Dressel 20,Bardon Mill,EL,Military Camp,Britannia
+36,16263,54.966667,-2.333333,Dressel 20,Bardon Mill,LIVNIMMELISIP,Military Camp,Britannia
+37,16380,54.966667,-2.333333,Dressel 20,Bardon Mill,QMR,Military Camp,Britannia
+38,16689,54.966667,-2.333333,Dressel 20,Bardon Mill,GRADOS,Military Camp,Britannia
+39,18686,54.966667,-2.333333,Dressel 20,Bardon Mill,NIIIIIIN,Military Camp,Britannia
+40,18689,54.966667,-2.333333,Dressel 20,Bardon Mill,CANTQVIETI,Military Camp,Britannia
+41,18690,54.966667,-2.333333,Dressel 20,Bardon Mill,CANTQVIETI,Military Camp,Britannia
+42,18691,54.966667,-2.333333,Dressel 20,Bardon Mill,CANTQ,Military Camp,Britannia
+43,18692,54.966667,-2.333333,Dressel 20,Bardon Mill,PARVA,Military Camp,Britannia
+44,18694,54.966667,-2.333333,Dressel 20,Bardon Mill,CAVM,Military Camp,Britannia
+45,18695,54.966667,-2.333333,Dressel 20,Bardon Mill,QCC,Military Camp,Britannia
+46,18696,54.966667,-2.333333,Dressel 20,Bardon Mill,QCC,Military Camp,Britannia
+47,18697,54.966667,-2.333333,Dressel 20,Bardon Mill,LCM,Military Camp,Britannia
+48,18698,54.966667,-2.333333,Dressel 20,Bardon Mill,LCM,Military Camp,Britannia
+49,18700,54.966667,-2.333333,Dressel 20,Bardon Mill,QCR,Military Camp,Britannia
+50,18701,54.966667,-2.333333,Dressel 20,Bardon Mill,QCOCL,Military Camp,Britannia
+51,18703,54.966667,-2.333333,Dressel 20,Bardon Mill,PORODV,Military Camp,Britannia
+52,18705,54.966667,-2.333333,Dressel 20,Bardon Mill,LFC,Military Camp,Britannia
+53,18706,54.966667,-2.333333,Dressel 20,Bardon Mill,QFG,Military Camp,Britannia
+54,18708,54.966667,-2.333333,Dressel 20,Bardon Mill,MIM,Military Camp,Britannia
+55,18709,54.966667,-2.333333,Dressel 20,Bardon Mill,QHEDERAIHEDERAM,Military Camp,Britannia
+56,18710,54.966667,-2.333333,Dressel 20,Bardon Mill,QIMMACR,Military Camp,Britannia
+57,18711,54.966667,-2.333333,Dressel 20,Bardon Mill,LIRTOR,Military Camp,Britannia
+58,18712,54.966667,-2.333333,Dressel 20,Bardon Mill,AELIITALSEN,Military Camp,Britannia
+59,18714,54.966667,-2.333333,Dressel 20,Bardon Mill,LIVNIMELISSIP,Military Camp,Britannia
+60,18715,54.966667,-2.333333,Dressel 20,Bardon Mill,LIVNIMELISSIP,Military Camp,Britannia
+61,18717,54.966667,-2.333333,Dressel 20,Bardon Mill,LIVNIMELISSI,Military Camp,Britannia
+62,18718,54.966667,-2.333333,Dressel 20,Bardon Mill,IIIVNIMELISSIETMELISSE,Military Camp,Britannia
+63,18719,54.966667,-2.333333,Dressel 20,Bardon Mill,PLFMAVR,Military Camp,Britannia
+64,18720,54.966667,-2.333333,Dressel 20,Bardon Mill,CLPV,Military Camp,Britannia
+65,18723,54.966667,-2.333333,Dressel 20,Bardon Mill,APH,Military Camp,Britannia
+66,18724,54.966667,-2.333333,Dressel 20,Bardon Mill,LQS,Military Camp,Britannia
+67,18725,54.966667,-2.333333,Dressel 20,Bardon Mill,LQS,Military Camp,Britannia
+68,18726,54.966667,-2.333333,Dressel 20,Bardon Mill,PORTAR,Military Camp,Britannia
+69,18727,54.966667,-2.333333,Dressel 20,Bardon Mill,GRADOS,Military Camp,Britannia
+70,18728,54.966667,-2.333333,Dressel 20,Bardon Mill,LSLPS,Military Camp,Britannia
+71,18729,54.966667,-2.333333,Dressel 20,Bardon Mill,QSP,Military Camp,Britannia
+72,18731,54.966667,-2.333333,Dressel 20,Bardon Mill,QSP,Military Camp,Britannia
+73,18732,54.966667,-2.333333,Dressel 20,Bardon Mill,HISPSAENICORONA,Military Camp,Britannia
+74,18733,54.966667,-2.333333,Dressel 20,Bardon Mill,FSCIMNIANO,Military Camp,Britannia
+75,18734,54.966667,-2.333333,Dressel 20,Bardon Mill,CSEMPL,Military Camp,Britannia
+76,18736,54.966667,-2.333333,Dressel 20,Bardon Mill,AH,Military Camp,Britannia
+77,18738,54.966667,-2.333333,Dressel 20,Bardon Mill,CQ,Military Camp,Britannia
+78,18739,54.966667,-2.333333,Dressel 20,Bardon Mill,EL,Military Camp,Britannia
+79,18740,54.966667,-2.333333,Dressel 20,Bardon Mill,L,Military Camp,Britannia
+80,18743,54.966667,-2.333333,Dressel 20,Bardon Mill,SCBC,Military Camp,Britannia
+81,18744,54.966667,-2.333333,Dressel 20,Bardon Mill,LIVNIMELISSIPIIIVNIMELISSIETMELSSE,Military Camp,Britannia
+82,18745,54.966667,-2.333333,Dressel 20,Bardon Mill,SE,Military Camp,Britannia
+83,18746,54.966667,-2.333333,Dressel 20,Bardon Mill,GRA,Military Camp,Britannia
+84,18747,54.966667,-2.333333,Dressel 20,Bardon Mill,LI,Military Camp,Britannia
+85,18748,54.966667,-2.333333,Dressel 20,Bardon Mill,MFA,Military Camp,Britannia
+86,18750,54.966667,-2.333333,Dressel 20,Bardon Mill,QIFCOX,Military Camp,Britannia
+87,20439,54.966667,-2.333333,Dressel 20,Bardon Mill,AGRICOLAE,Military Camp,Britannia
+88,20440,54.966667,-2.333333,Dressel 20,Bardon Mill,LCFPCE,Military Camp,Britannia
+89,20441,54.966667,-2.333333,Dressel 20,Bardon Mill,GENETIV,Military Camp,Britannia
+90,20442,54.966667,-2.333333,Dressel 20,Bardon Mill,HISPSAENICORONA,Military Camp,Britannia
+91,20443,54.966667,-2.333333,Dressel 20,Bardon Mill,IVLTEREN,Military Camp,Britannia
+92,20444,54.966667,-2.333333,Dressel 20,Bardon Mill,MV,Military Camp,Britannia
+93,20445,54.966667,-2.333333,Dressel 20,Bardon Mill,QMMCER,Military Camp,Britannia
+94,20446,54.966667,-2.333333,Dressel 20,Bardon Mill,CSTERPAVLLINI,Military Camp,Britannia
+95,20447,54.966667,-2.333333,Dressel 20,Bardon Mill,PVALFAVSSCOR,Military Camp,Britannia
+96,20448,54.966667,-2.333333,Dressel 20,Bardon Mill,GQ,Military Camp,Britannia
+97,20449,54.966667,-2.333333,Dressel 20,Bardon Mill,MAEME,Military Camp,Britannia
+98,20450,54.966667,-2.333333,Dressel 20,Bardon Mill,SAXOFERSAXFER,Military Camp,Britannia
+99,20451,54.966667,-2.333333,Dressel 20,Bardon Mill,OO,Military Camp,Britannia
+100,32250,54.966667,-2.333333,Dressel 20,Bardon Mill,AEMILIORVMETCASSIORVM,Military Camp,Britannia
+101,32250,54.966667,-2.333333,Dressel 20,Bardon Mill,CIII,Military Camp,Britannia
+102,32250,54.966667,-2.333333,Dressel 20,Bardon Mill,LEONTINIAAAACCXXSEREN,Military Camp,Britannia
+103,32250,54.966667,-2.333333,Dressel 20,Bardon Mill,VLXXVI,Military Camp,Britannia
+104,32251,54.966667,-2.333333,Dressel 20,Bardon Mill,CXC,Military Camp,Britannia
+105,32252,54.966667,-2.333333,Dressel 20,Bardon Mill,CCVVVI,Military Camp,Britannia
+106,32253,54.966667,-2.333333,Dressel 20,Bardon Mill,MONTANI,Military Camp,Britannia
+107,33382,54.966667,-2.333333,Dressel 20,Bardon Mill,APAMPHORA,Military Camp,Britannia
+108,33383,54.966667,-2.333333,Dressel 20,Bardon Mill,APN,Military Camp,Britannia
+109,33384,54.966667,-2.333333,Dressel 20,Bardon Mill,CANTQ,Military Camp,Britannia
+110,33385,54.966667,-2.333333,Dressel 20,Bardon Mill,FSCIMNIANO,Military Camp,Britannia
+111,33386,54.966667,-2.333333,Dressel 20,Bardon Mill,IIAVRHERACLAEPATETFILIFBAR,Military Camp,Britannia
+112,33387,54.966667,-2.333333,Dressel 20,Bardon Mill,IIIAVRHERACLAEPATETFILFBAR,Military Camp,Britannia
+113,33388,54.966667,-2.333333,Dressel 20,Bardon Mill,IIIENNIORIVLSAE,Military Camp,Britannia
+114,33389,54.966667,-2.333333,Dressel 20,Bardon Mill,LAFP,Military Camp,Britannia
+115,33390,54.966667,-2.333333,Dressel 20,Bardon Mill,LQA,Military Camp,Britannia
+116,33391,54.966667,-2.333333,Dressel 20,Bardon Mill,LQSC,Military Camp,Britannia
+117,33392,54.966667,-2.333333,Dressel 20,Bardon Mill,MCLSH,Military Camp,Britannia
+118,33393,54.966667,-2.333333,Dressel 20,Bardon Mill,MIAPMA,Military Camp,Britannia
+119,33394,54.966667,-2.333333,Dressel 20,Bardon Mill,MSEHELC,Military Camp,Britannia
+120,33395,54.966667,-2.333333,Dressel 20,Bardon Mill,OLEASTRO,Military Camp,Britannia
+121,33396,54.966667,-2.333333,Dressel 20,Bardon Mill,PNN,Military Camp,Britannia
+122,33397,54.966667,-2.333333,Dressel 20,Bardon Mill,PNN,Military Camp,Britannia
+123,33398,54.966667,-2.333333,Dressel 20,Bardon Mill,QAEPO,Military Camp,Britannia
+124,33399,54.966667,-2.333333,Dressel 20,Bardon Mill,QIM,Military Camp,Britannia
+125,33400,54.966667,-2.333333,Dressel 20,Bardon Mill,QIMS,Military Camp,Britannia
+126,33401,54.966667,-2.333333,Dressel 20,Bardon Mill,QMR,Military Camp,Britannia
+127,33402,54.966667,-2.333333,Dressel 20,Bardon Mill,SANNIRGR,Military Camp,Britannia
+128,33403,54.966667,-2.333333,Dressel 20,Bardon Mill,SCALCELS,Military Camp,Britannia
+129,33404,54.966667,-2.333333,Dressel 20,Bardon Mill,SCALHER,Military Camp,Britannia
+130,33405,54.966667,-2.333333,Dressel 20,Bardon Mill,SER,Military Camp,Britannia
+131,33406,54.966667,-2.333333,Dressel 20,Bardon Mill,SEI,Military Camp,Britannia
+132,33408,54.966667,-2.333333,Dressel 20,Bardon Mill,MIVS,Military Camp,Britannia
+133,15814,55.958056,-4.064722,Dressel 20,Bar Hill,MMACSV,Military Camp,Britannia
+134,16450,55.958056,-4.064722,Dressel 20,Bar Hill,GNAPCO,Military Camp,Britannia
+135,16499,55.958056,-4.064722,Dressel 20,Bar Hill,SNR,Military Camp,Britannia
+136,16778,55.958056,-4.064722,Dressel 20,Bar Hill,LSPBOEQ,Military Camp,Britannia
+137,17083,55.958056,-4.064722,Dressel 20,Bar Hill,VIRAV,Military Camp,Britannia
+138,17084,55.958056,-4.064722,Dressel 20,Bar Hill,VIRGINENSIA,Military Camp,Britannia
+139,17200,55.958056,-4.064722,Dressel 20,Bar Hill,M,Military Camp,Britannia
+140,17205,55.958056,-4.064722,Dressel 20,Bar Hill,MMC,Military Camp,Britannia
+141,17217,55.958056,-4.064722,Dressel 20,Bar Hill,SA,Military Camp,Britannia
+147,15704,55.066667,-3.233333,Dressel 20,Birrens,LCANTP,Military Camp,Britannia
+148,15748,55.066667,-3.233333,Dressel 20,Birrens,LCFPC,Military Camp,Britannia
+149,16372,55.066667,-3.233333,Dressel 20,Birrens,MMRQ,Military Camp,Britannia
+150,16551,55.066667,-3.233333,Dressel 20,Birrens,DOMS,Military Camp,Britannia
+151,16877,55.066667,-3.233333,Dressel 20,Birrens,SCAVE,Military Camp,Britannia
+152,17110,55.066667,-3.233333,Dressel 20,Birrens,AR,Military Camp,Britannia
+153,17197,55.066667,-3.233333,Dressel 20,Birrens,LFI,Military Camp,Britannia
+158,15400,55.9,-4.233333,Dressel 20,Bishopbriggs,LAF,none,Britannia
+159,15665,55.9,-4.233333,Dressel 20,Bishopbriggs,DATSCOL,none,Britannia
+160,15778,55.9,-4.233333,Dressel 20,Bishopbriggs,MCPRI,none,Britannia
+161,15815,55.9,-4.233333,Dressel 20,Bishopbriggs,MMCSVR,none,Britannia
+162,15816,55.9,-4.233333,Dressel 20,Bishopbriggs,MMCSVR,none,Britannia
+163,15818,55.9,-4.233333,Dressel 20,Bishopbriggs,MMCSVR,none,Britannia
+164,16325,55.9,-4.233333,Dressel 20,Bishopbriggs,MCPRI,none,Britannia
+165,16378,55.9,-4.233333,Dressel 20,Bishopbriggs,QMR,none,Britannia
+166,16502,55.9,-4.233333,Dressel 20,Bishopbriggs,SNR,none,Britannia
+167,16505,55.9,-4.233333,Dressel 20,Bishopbriggs,SNR,none,Britannia
+168,16547,55.9,-4.233333,Dressel 20,Bishopbriggs,DOMS,none,Britannia
+169,16553,55.9,-4.233333,Dressel 20,Bishopbriggs,DOMS,none,Britannia
+170,16740,55.9,-4.233333,Dressel 20,Bishopbriggs,ASAV,none,Britannia
+171,17078,55.9,-4.233333,Dressel 20,Bishopbriggs,VIRAV,none,Britannia
+172,17079,55.9,-4.233333,Dressel 20,Bishopbriggs,VIRAV,none,Britannia
+173,17151,55.9,-4.233333,Dressel 20,Bishopbriggs,Q,none,Britannia
+174,17158,55.9,-4.233333,Dressel 20,Bishopbriggs,QV,none,Britannia
+175,17171,55.9,-4.233333,Dressel 20,Bishopbriggs,AAF,none,Britannia
+176,17191,55.9,-4.233333,Dressel 20,Bishopbriggs,EAT,none,Britannia
+188,15391,53.216667,-3.833333,Dressel 20,Caerhun,GAF,Military Camp,Britannia
+189,16018,53.216667,-3.833333,Dressel 20,Caerhun,LFO,Military Camp,Britannia
+190,16307,53.216667,-3.833333,Dressel 20,Caerhun,ALFO,Military Camp,Britannia
+191,16617,53.216667,-3.833333,Dressel 20,Caerhun,PASSERAR,Military Camp,Britannia
+192,16870,53.216667,-3.833333,Dressel 20,Caerhun,SCALENSIA,Military Camp,Britannia
+193,15386,51.613333,-2.958889,Dressel 20,Caerleon,MAC,Military Camp,Britannia
+194,15393,51.613333,-2.958889,Dressel 20,Caerleon,GAF,Military Camp,Britannia
+195,15450,51.613333,-2.958889,Dressel 20,Caerleon,LAP,Military Camp,Britannia
+196,15531,51.613333,-2.958889,Dressel 20,Caerleon,MAEMRVS,Military Camp,Britannia
+197,15534,51.613333,-2.958889,Dressel 20,Caerleon,MAEMRVS,Military Camp,Britannia
+198,15598,51.613333,-2.958889,Dressel 20,Caerleon,CANTQVIE,Military Camp,Britannia
+199,15605,51.613333,-2.958889,Dressel 20,Caerleon,CANTQVIETI,Military Camp,Britannia
+200,15633,51.613333,-2.958889,Dressel 20,Caerleon,CAPF,Military Camp,Britannia
+201,15698,51.613333,-2.958889,Dressel 20,Caerleon,BELLVC,Military Camp,Britannia
+202,15772,51.613333,-2.958889,Dressel 20,Caerleon,LCM,Military Camp,Britannia
+203,15983,51.613333,-2.958889,Dressel 20,Caerleon,QFC,Military Camp,Britannia
+204,15998,51.613333,-2.958889,Dressel 20,Caerleon,SFE,Military Camp,Britannia
+205,16000,51.613333,-2.958889,Dressel 20,Caerleon,DEF,Military Camp,Britannia
+206,16065,51.613333,-2.958889,Dressel 20,Caerleon,HERMESF,Military Camp,Britannia
+207,16217,51.613333,-2.958889,Dressel 20,Caerleon,IVEP,Military Camp,Britannia
+208,16285,51.613333,-2.958889,Dressel 20,Caerleon,NIMELISSETMELISSE,Military Camp,Britannia
+209,16319,51.613333,-2.958889,Dressel 20,Caerleon,AELFO,Military Camp,Britannia
+210,16336,51.613333,-2.958889,Dressel 20,Caerleon,PLS,Military Camp,Britannia
+211,16397,51.613333,-2.958889,Dressel 20,Caerleon,PMSC,Military Camp,Britannia
+212,16438,51.613333,-2.958889,Dressel 20,Caerleon,IIMINIACRETCAL,Military Camp,Britannia
+213,16484,51.613333,-2.958889,Dressel 20,Caerleon,PNN,Military Camp,Britannia
+214,16526,51.613333,-2.958889,Dressel 20,Caerleon,COI,Military Camp,Britannia
+215,16549,51.613333,-2.958889,Dressel 20,Caerleon,DOM,Military Camp,Britannia
+216,16554,51.613333,-2.958889,Dressel 20,Caerleon,DOMS,Military Camp,Britannia
+217,16560,51.613333,-2.958889,Dressel 20,Caerleon,DO,Military Camp,Britannia
+218,16570,51.613333,-2.958889,Dressel 20,Caerleon,PORODV,Military Camp,Britannia
+219,16660,51.613333,-2.958889,Dressel 20,Caerleon,LQHEDERAS,Military Camp,Britannia
+220,16661,51.613333,-2.958889,Dressel 20,Caerleon,LQS,Military Camp,Britannia
+221,16711,51.613333,-2.958889,Dressel 20,Caerleon,ROM,Military Camp,Britannia
+222,16727,51.613333,-2.958889,Dressel 20,Caerleon,PORPS,Military Camp,Britannia
+223,16916,51.613333,-2.958889,Dressel 20,Caerleon,FSCIMNIANO,Military Camp,Britannia
+224,16987,51.613333,-2.958889,Dressel 20,Caerleon,SEX,Military Camp,Britannia
+225,17055,51.613333,-2.958889,Dressel 20,Caerleon,LVALERITROPHIMI,Military Camp,Britannia
+226,17056,51.613333,-2.958889,Dressel 20,Caerleon,LVALTROPHIMI,Military Camp,Britannia
+227,17095,51.613333,-2.958889,Dressel 20,Caerleon,VIRG,Military Camp,Britannia
+228,15563,53.15,-4.266667,Dressel 20,Caernarfon,QANTALB,Military Camp,Britannia
+229,15582,53.15,-4.266667,Dressel 20,Caernarfon,CANT,Military Camp,Britannia
+230,15912,53.15,-4.266667,Dressel 20,Caernarfon,CENHISPSAE,Military Camp,Britannia
+231,16017,53.15,-4.266667,Dressel 20,Caernarfon,LFOPALMA,Military Camp,Britannia
+232,16118,53.15,-4.266667,Dressel 20,Caernarfon,QICSEG,Military Camp,Britannia
+233,16763,53.15,-4.266667,Dressel 20,Caernarfon,LSLVPI,Military Camp,Britannia
+234,16780,53.15,-4.266667,Dressel 20,Caernarfon,LSPBO,Military Camp,Britannia
+235,17113,53.15,-4.266667,Dressel 20,Caernarfon,C,Military Camp,Britannia
+240,15504,51.61,-2.766667,Dressel 20,Caerwent,ACIR,Civil Settlement,Britannia
+241,15521,51.61,-2.766667,Dressel 20,Caerwent,SAEQARR,Civil Settlement,Britannia
+242,15535,51.61,-2.766667,Dressel 20,Caerwent,MAEMRVS,Civil Settlement,Britannia
+243,15565,51.61,-2.766667,Dressel 20,Caerwent,CANTONIQVIETI,Civil Settlement,Britannia
+244,15673,51.61,-2.766667,Dressel 20,Caerwent,LAVRGER,Civil Settlement,Britannia
+245,16257,51.61,-2.766667,Dressel 20,Caerwent,IMELISSI,Civil Settlement,Britannia
+246,16571,51.61,-2.766667,Dressel 20,Caerwent,OD,Civil Settlement,Britannia
+247,16598,51.61,-2.766667,Dressel 20,Caerwent,APM,Civil Settlement,Britannia
+248,16604,51.61,-2.766667,Dressel 20,Caerwent,LPMS,Civil Settlement,Britannia
+249,16635,51.61,-2.766667,Dressel 20,Caerwent,PROCVLINI,Civil Settlement,Britannia
+250,16728,51.61,-2.766667,Dressel 20,Caerwent,PORPS,Civil Settlement,Britannia
+251,16769,51.61,-2.766667,Dressel 20,Caerwent,MSMACIRGI,Civil Settlement,Britannia
+252,16799,51.61,-2.766667,Dressel 20,Caerwent,QSRPOR,Civil Settlement,Britannia
+253,16831,51.61,-2.766667,Dressel 20,Caerwent,QSASER,Civil Settlement,Britannia
+254,16845,51.61,-2.766667,Dressel 20,Caerwent,SATVRNINI,Civil Settlement,Britannia
+255,16979,51.61,-2.766667,Dressel 20,Caerwent,SER,Civil Settlement,Britannia
+256,16980,51.61,-2.766667,Dressel 20,Caerwent,SER,Civil Settlement,Britannia
+257,17093,51.61,-2.766667,Dressel 20,Caerwent,VIRGIN,Civil Settlement,Britannia
+260,15559,51.266667,1.083333,Dressel 20,Canterbury,PANRVF,Civil Settlement,Britannia
+261,15860,51.266667,1.083333,Dressel 20,Canterbury,MCLSB,Civil Settlement,Britannia
+262,15987,51.266667,1.083333,Dressel 20,Canterbury,SFE,Civil Settlement,Britannia
+263,16208,51.266667,1.083333,Dressel 20,Canterbury,LIT,Civil Settlement,Britannia
+264,16301,51.266667,1.083333,Dressel 20,Canterbury,KVFBARCOLSICETAS,Civil Settlement,Britannia
+265,16302,51.266667,1.083333,Dressel 20,Canterbury,BARCOLSICETAS,Civil Settlement,Britannia
+266,16531,51.266667,1.083333,Dressel 20,Canterbury,DOMS,Civil Settlement,Britannia
+267,16599,51.266667,1.083333,Dressel 20,Canterbury,APM,Civil Settlement,Britannia
+268,16608,51.266667,1.083333,Dressel 20,Canterbury,QPPRIX,Civil Settlement,Britannia
+269,16627,51.266667,1.083333,Dressel 20,Canterbury,PONTICI,Civil Settlement,Britannia
+270,16841,51.266667,1.083333,Dressel 20,Canterbury,SATVRNINI,Civil Settlement,Britannia
+271,16850,51.266667,1.083333,Dressel 20,Canterbury,SAXOFERREO,Civil Settlement,Britannia
+272,17106,51.266667,1.083333,Dressel 20,Canterbury,VRSI,Civil Settlement,Britannia
+273,17166,51.266667,1.083333,Dressel 20,Canterbury,SO,Civil Settlement,Britannia
+274,17206,51.266667,1.083333,Dressel 20,Canterbury,NFR,Civil Settlement,Britannia
+275,17215,51.266667,1.083333,Dressel 20,Canterbury,RI,Civil Settlement,Britannia
+276,15430,54.883333,-2.933333,Dressel 20,Carlisle,PALSAEN,Military Camp,Britannia
+277,15558,54.883333,-2.933333,Dressel 20,Carlisle,PANNIRVFS,Military Camp,Britannia
+278,15602,54.883333,-2.933333,Dressel 20,Carlisle,CANTQVIP,Military Camp,Britannia
+279,15759,54.883333,-2.933333,Dressel 20,Carlisle,PCHO,Military Camp,Britannia
+280,15864,54.883333,-2.933333,Dressel 20,Carlisle,SCLT,Military Camp,Britannia
+281,16061,54.883333,-2.933333,Dressel 20,Carlisle,PQHEHE,Military Camp,Britannia
+282,16169,54.883333,-2.933333,Dressel 20,Carlisle,QIMF,Military Camp,Britannia
+283,16179,54.883333,-2.933333,Dressel 20,Carlisle,PIR,Military Camp,Britannia
+284,16212,54.883333,-2.933333,Dressel 20,Carlisle,LIT,Military Camp,Britannia
+285,16353,54.883333,-2.933333,Dressel 20,Carlisle,CALLAS,Military Camp,Britannia
+286,16529,54.883333,-2.933333,Dressel 20,Carlisle,DOMS,Military Camp,Britannia
+287,16607,54.883333,-2.933333,Dressel 20,Carlisle,FPPOR,Military Camp,Britannia
+288,16654,54.883333,-2.933333,Dressel 20,Carlisle,LQS,Military Camp,Britannia
+289,16699,54.883333,-2.933333,Dressel 20,Carlisle,ROMANI,Military Camp,Britannia
+290,16712,54.883333,-2.933333,Dressel 20,Carlisle,ROMANIPALMA,Military Camp,Britannia
+291,16797,54.883333,-2.933333,Dressel 20,Carlisle,QSP,Military Camp,Britannia
+292,16874,54.883333,-2.933333,Dressel 20,Carlisle,SCA,Military Camp,Britannia
+293,17004,54.883333,-2.933333,Dressel 20,Carlisle,CTYC,Military Camp,Britannia
+294,17100,54.883333,-2.933333,Dressel 20,Carlisle,CALPVRPOT,Military Camp,Britannia
+295,17184,54.883333,-2.933333,Dressel 20,Carlisle,CIA,Military Camp,Britannia
+296,17201,54.883333,-2.933333,Dressel 20,Carlisle,M,Military Camp,Britannia
+297,32254,54.883333,-2.933333,Dressel 20,Carlisle,CANTONIQVIETI,Military Camp,Britannia
+298,32255,54.883333,-2.933333,Dressel 20,Carlisle,CANTONQ,Military Camp,Britannia
+299,32256,54.883333,-2.933333,Dressel 20,Carlisle,QFG,Military Camp,Britannia
+300,32257,54.883333,-2.933333,Dressel 20,Carlisle,DOMS,Military Camp,Britannia
+301,32258,54.883333,-2.933333,Dressel 20,Carlisle,LVC,Military Camp,Britannia
+302,33311,54.883333,-2.933333,Dressel 20,Carlisle,LPLVCA,Military Camp,Britannia
+303,33312,54.883333,-2.933333,Dressel 20,Carlisle,QICSEG,Military Camp,Britannia
+304,33313,54.883333,-2.933333,Dressel 20,Carlisle,ALFO,Military Camp,Britannia
+305,33314,54.883333,-2.933333,Dressel 20,Carlisle,AE,Military Camp,Britannia
+306,33315,54.883333,-2.933333,Dressel 20,Carlisle,QMR,Military Camp,Britannia
+307,33316,54.883333,-2.933333,Dressel 20,Carlisle,DECCA,Military Camp,Britannia
+308,33317,54.883333,-2.933333,Dressel 20,Carlisle,TFAMV,Military Camp,Britannia
+320,15380,53.2,-2.916667,Dressel 20,Chester,AA,Military Camp,Britannia
+321,15383,53.2,-2.916667,Dressel 20,Chester,AAFAAE,Military Camp,Britannia
+322,15407,53.2,-2.916667,Dressel 20,Chester,QAGEMELLI,Military Camp,Britannia
+323,15412,53.2,-2.916667,Dressel 20,Chester,LAGER,Military Camp,Britannia
+324,15415,53.2,-2.916667,Dressel 20,Chester,PORPAH,Military Camp,Britannia
+325,15416,53.2,-2.916667,Dressel 20,Chester,PORTPAH,Military Camp,Britannia
+326,15417,53.2,-2.916667,Dressel 20,Chester,PORTPAH,Military Camp,Britannia
+327,15420,53.2,-2.916667,Dressel 20,Chester,PAHSCALS,Military Camp,Britannia
+328,15455,53.2,-2.916667,Dressel 20,Chester,PORLAR,Military Camp,Britannia
+329,15465,53.2,-2.916667,Dressel 20,Chester,MAR,Military Camp,Britannia
+330,15477,53.2,-2.916667,Dressel 20,Chester,CAS,Military Camp,Britannia
+331,15520,53.2,-2.916667,Dressel 20,Chester,QAEOPO,Military Camp,Britannia
+332,15540,53.2,-2.916667,Dressel 20,Chester,AGRICOLAE,Military Camp,Britannia
+333,15546,53.2,-2.916667,Dressel 20,Chester,AGRICOLAE,Military Camp,Britannia
+334,15551,53.2,-2.916667,Dressel 20,Chester,CALVI,Military Camp,Britannia
+335,15566,53.2,-2.916667,Dressel 20,Chester,CANTONIQVIETI,Military Camp,Britannia
+336,15585,53.2,-2.916667,Dressel 20,Chester,CANQVCANOV,Military Camp,Britannia
+337,15591,53.2,-2.916667,Dressel 20,Chester,CANTONIQVIETI,Military Camp,Britannia
+338,15606,53.2,-2.916667,Dressel 20,Chester,CANTQVIETI,Military Camp,Britannia
+339,15616,53.2,-2.916667,Dressel 20,Chester,QANTRVG,Military Camp,Britannia
+340,15621,53.2,-2.916667,Dressel 20,Chester,LAPAE,Military Camp,Britannia
+341,15655,53.2,-2.916667,Dressel 20,Chester,ATATFTATAF,Military Camp,Britannia
+342,15675,53.2,-2.916667,Dressel 20,Chester,AVMONT,Military Camp,Britannia
+343,15726,53.2,-2.916667,Dressel 20,Chester,QCC,Military Camp,Britannia
+344,15732,53.2,-2.916667,Dressel 20,Chester,QCCA,Military Camp,Britannia
+345,15733,53.2,-2.916667,Dressel 20,Chester,QCC,Military Camp,Britannia
+346,15758,53.2,-2.916667,Dressel 20,Chester,PCHO,Military Camp,Britannia
+347,15918,53.2,-2.916667,Dressel 20,Chester,IIIENNIIVL,Military Camp,Britannia
+348,15932,53.2,-2.916667,Dressel 20,Chester,IIIENNIVLHEDERA,Military Camp,Britannia
+349,15997,53.2,-2.916667,Dressel 20,Chester,SF,Military Camp,Britannia
+350,16003,53.2,-2.916667,Dressel 20,Chester,LEFPC,Military Camp,Britannia
+351,16039,53.2,-2.916667,Dressel 20,Chester,MFELICIS,Military Camp,Britannia
+352,16083,53.2,-2.916667,Dressel 20,Chester,QIA,Military Camp,Britannia
+353,16112,53.2,-2.916667,Dressel 20,Chester,MIAPC,Military Camp,Britannia
+354,16241,53.2,-2.916667,Dressel 20,Chester,LIVNIMELISSI,Military Camp,Britannia
+355,16252,53.2,-2.916667,Dressel 20,Chester,IIIVNIMELISSETMELISSE,Military Camp,Britannia
+356,16313,53.2,-2.916667,Dressel 20,Chester,ALF,Military Camp,Britannia
+357,16318,53.2,-2.916667,Dressel 20,Chester,AELFO,Military Camp,Britannia
+358,16321,53.2,-2.916667,Dressel 20,Chester,CLMFF,Military Camp,Britannia
+359,16350,53.2,-2.916667,Dressel 20,Chester,QMCALLAIDIS,Military Camp,Britannia
+360,16354,53.2,-2.916667,Dressel 20,Chester,QME,Military Camp,Britannia
+361,16356,53.2,-2.916667,Dressel 20,Chester,LMFE,Military Camp,Britannia
+362,16362,53.2,-2.916667,Dressel 20,Chester,CMM,Military Camp,Britannia
+363,16381,53.2,-2.916667,Dressel 20,Chester,QMR,Military Camp,Britannia
+364,16404,53.2,-2.916667,Dressel 20,Chester,LMVE,Military Camp,Britannia
+365,16405,53.2,-2.916667,Dressel 20,Chester,LMVE,Military Camp,Britannia
+366,16406,53.2,-2.916667,Dressel 20,Chester,LMVE,Military Camp,Britannia
+367,16479,53.2,-2.916667,Dressel 20,Chester,PNN,Military Camp,Britannia
+368,16618,53.2,-2.916667,Dressel 20,Chester,PASSERAR,Military Camp,Britannia
+369,16700,53.2,-2.916667,Dressel 20,Chester,ROMANI,Military Camp,Britannia
+370,16703,53.2,-2.916667,Dressel 20,Chester,ROMANI,Military Camp,Britannia
+371,16717,53.2,-2.916667,Dressel 20,Chester,RVFPO,Military Camp,Britannia
+372,16754,53.2,-2.916667,Dressel 20,Chester,MSFPC,Military Camp,Britannia
+373,16759,53.2,-2.916667,Dressel 20,Chester,LSLPAMPHORA,Military Camp,Britannia
+374,16768,53.2,-2.916667,Dressel 20,Chester,MSMACIRGI,Military Camp,Britannia
+375,16785,53.2,-2.916667,Dressel 20,Chester,QSP,Military Camp,Britannia
+376,16798,53.2,-2.916667,Dressel 20,Chester,QSP,Military Camp,Britannia
+377,16871,53.2,-2.916667,Dressel 20,Chester,SCALENSIAGEME,Military Camp,Britannia
+378,16876,53.2,-2.916667,Dressel 20,Chester,SCALCEL,Military Camp,Britannia
+379,16887,53.2,-2.916667,Dressel 20,Chester,FSCIMNIANO,Military Camp,Britannia
+380,16888,53.2,-2.916667,Dressel 20,Chester,FSCIMNIANO,Military Camp,Britannia
+381,16907,53.2,-2.916667,Dressel 20,Chester,FSCIMNIANI,Military Camp,Britannia
+382,16938,53.2,-2.916667,Dressel 20,Chester,SECVND,Military Camp,Britannia
+383,16992,53.2,-2.916667,Dressel 20,Chester,STATIANIENSIA,Military Camp,Britannia
+384,17075,53.2,-2.916667,Dressel 20,Chester,AVIH,Military Camp,Britannia
+385,17076,53.2,-2.916667,Dressel 20,Chester,LVIST,Military Camp,Britannia
+386,17120,53.2,-2.916667,Dressel 20,Chester,CVTC,Military Camp,Britannia
+387,17187,53.2,-2.916667,Dressel 20,Chester,COO,Military Camp,Britannia
+388,17189,53.2,-2.916667,Dressel 20,Chester,CS,Military Camp,Britannia
+389,17208,53.2,-2.916667,Dressel 20,Chester,OC,Military Camp,Britannia
+390,17214,53.2,-2.916667,Dressel 20,Chester,R,Military Camp,Britannia
+391,17216,53.2,-2.916667,Dressel 20,Chester,RSV,Military Camp,Britannia
+392,28054,53.2,-2.916667,Dressel 20,Chester,QCC,Military Camp,Britannia
+398,15510,55.016667,-2.15,Dressel 20,Chesters,ACIRGI,Military Camp,Britannia
+399,15727,55.016667,-2.15,Dressel 20,Chesters,QCC,Military Camp,Britannia
+400,15767,55.016667,-2.15,Dressel 20,Chesters,LCM,Military Camp,Britannia
+401,16261,55.016667,-2.15,Dressel 20,Chesters,LIVNIMELISSIP,Military Camp,Britannia
+402,16262,55.016667,-2.15,Dressel 20,Chesters,LIVNIMELISSIP,Military Camp,Britannia
+403,16369,55.016667,-2.15,Dressel 20,Chesters,GMMF,Military Camp,Britannia
+404,16480,55.016667,-2.15,Dressel 20,Chesters,PNNPALMA,Military Camp,Britannia
+405,16858,55.016667,-2.15,Dressel 20,Chesters,SAXOFERRO,Military Camp,Britannia
+406,16920,55.016667,-2.15,Dressel 20,Chesters,FSCIMNIANO,Military Camp,Britannia
+407,16921,55.016667,-2.15,Dressel 20,Chesters,FSCIMNIANO,Military Camp,Britannia
+408,17139,55.016667,-2.15,Dressel 20,Chesters,MAS,Military Camp,Britannia
+409,17173,55.016667,-2.15,Dressel 20,Chesters,AEBEAEPE,Military Camp,Britannia
+410,17181,55.016667,-2.15,Dressel 20,Chesters,BYY,Military Camp,Britannia
+411,15385,50.833333,-0.783333,Dressel 20,Chichester,SA,Military Camp,Britannia
+412,15463,50.833333,-0.783333,Dressel 20,Chichester,POLAR,Military Camp,Britannia
+413,15506,50.833333,-0.783333,Dressel 20,Chichester,ACIRGIF,Military Camp,Britannia
+414,15592,50.833333,-0.783333,Dressel 20,Chichester,CANTONIQVIETI,Military Camp,Britannia
+415,15784,50.833333,-0.783333,Dressel 20,Chichester,QCR,Military Camp,Britannia
+416,15785,50.833333,-0.783333,Dressel 20,Chichester,QCR,Military Camp,Britannia
+417,15786,50.833333,-0.783333,Dressel 20,Chichester,QCR,Military Camp,Britannia
+418,15810,50.833333,-0.783333,Dressel 20,Chichester,MMCE,Military Camp,Britannia
+419,15996,50.833333,-0.783333,Dressel 20,Chichester,SFE,Military Camp,Britannia
+420,16100,50.833333,-0.783333,Dressel 20,Chichester,GIALB,Military Camp,Britannia
+421,16109,50.833333,-0.783333,Dressel 20,Chichester,CIALB,Military Camp,Britannia
+422,16126,50.833333,-0.783333,Dressel 20,Chichester,MIM,Military Camp,Britannia
+423,16277,50.833333,-0.783333,Dressel 20,Chichester,ISSI,Military Camp,Britannia
+424,16559,50.833333,-0.783333,Dressel 20,Chichester,DOMS,Military Camp,Britannia
+425,16904,50.833333,-0.783333,Dressel 20,Chichester,FSCIMNIANO,Military Camp,Britannia
+426,16977,50.833333,-0.783333,Dressel 20,Chichester,SENLSE,Military Camp,Britannia
+427,17114,50.833333,-0.783333,Dressel 20,Chichester,C,Military Camp,Britannia
+428,17190,50.833333,-0.783333,Dressel 20,Chichester,C,Military Camp,Britannia
+429,17210,50.833333,-0.783333,Dressel 20,Chichester,OPLEI,Military Camp,Britannia
+430,15381,51.733333,-1.983333,Dressel 20,Cirencester,IIAALIM,Military Camp,Britannia
+431,15401,51.733333,-1.983333,Dressel 20,Cirencester,LHEDERAAHEDERAF,Military Camp,Britannia
+432,15434,51.733333,-1.983333,Dressel 20,Cirencester,SALS,Military Camp,Britannia
+433,15456,51.733333,-1.983333,Dressel 20,Cirencester,PORLAR,Military Camp,Britannia
+434,15476,51.733333,-1.983333,Dressel 20,Cirencester,CAS,Military Camp,Britannia
+435,15482,51.733333,-1.983333,Dressel 20,Cirencester,ACIRGIF,Military Camp,Britannia
+436,15593,51.733333,-1.983333,Dressel 20,Cirencester,CANTONIQVIETI,Military Camp,Britannia
+437,15635,51.733333,-1.983333,Dressel 20,Cirencester,PARVA,Military Camp,Britannia
+438,15660,51.733333,-1.983333,Dressel 20,Cirencester,ATSP,Military Camp,Britannia
+439,15671,51.733333,-1.983333,Dressel 20,Cirencester,AVGGGNNNCOLEARIFBA,Military Camp,Britannia
+440,15681,51.733333,-1.983333,Dressel 20,Cirencester,IIAVRHERACLAEPATETFILFBAR,Military Camp,Britannia
+441,15682,51.733333,-1.983333,Dressel 20,Cirencester,LAVIVA,Military Camp,Britannia
+442,15691,51.733333,-1.983333,Dressel 20,Cirencester,BARMASI,Military Camp,Britannia
+443,15695,51.733333,-1.983333,Dressel 20,Cirencester,BELSIL,Military Camp,Britannia
+444,15763,51.733333,-1.983333,Dressel 20,Cirencester,PCI,Military Camp,Britannia
+445,15799,51.733333,-1.983333,Dressel 20,Cirencester,QCRP,Military Camp,Britannia
+446,15811,51.733333,-1.983333,Dressel 20,Cirencester,MMCSAE,Military Camp,Britannia
+447,15813,51.733333,-1.983333,Dressel 20,Cirencester,MMCSAR,Military Camp,Britannia
+448,15824,51.733333,-1.983333,Dressel 20,Cirencester,MMCSR,Military Camp,Britannia
+449,15826,51.733333,-1.983333,Dressel 20,Cirencester,MCS,Military Camp,Britannia
+450,15842,51.733333,-1.983333,Dressel 20,Cirencester,CALPVRNIB,Military Camp,Britannia
+451,15849,51.733333,-1.983333,Dressel 20,Cirencester,IICAMMEL,Military Camp,Britannia
+452,15856,51.733333,-1.983333,Dressel 20,Cirencester,GEMELLI,Military Camp,Britannia
+453,15883,51.733333,-1.983333,Dressel 20,Cirencester,FCVCV,Military Camp,Britannia
+454,15946,51.733333,-1.983333,Dressel 20,Cirencester,QFALBELQFALBETN,Military Camp,Britannia
+455,15974,51.733333,-1.983333,Dressel 20,Cirencester,LFCSENTI,Military Camp,Britannia
+456,15989,51.733333,-1.983333,Dressel 20,Cirencester,SFE,Military Camp,Britannia
+457,16016,51.733333,-1.983333,Dressel 20,Cirencester,LFO,Military Camp,Britannia
+458,16027,51.733333,-1.983333,Dressel 20,Cirencester,PORFS,Military Camp,Britannia
+459,16047,51.733333,-1.983333,Dressel 20,Cirencester,PHILEROF,Military Camp,Britannia
+460,16071,51.733333,-1.983333,Dressel 20,Cirencester,HISPSAENICORONA,Military Camp,Britannia
+461,16081,51.733333,-1.983333,Dressel 20,Cirencester,MIA,Military Camp,Britannia
+462,16082,51.733333,-1.983333,Dressel 20,Cirencester,MIARV,Military Camp,Britannia
+463,16087,51.733333,-1.983333,Dressel 20,Cirencester,QIAFS,Military Camp,Britannia
+464,16140,51.733333,-1.983333,Dressel 20,Cirencester,MIM,Military Camp,Britannia
+465,16141,51.733333,-1.983333,Dressel 20,Cirencester,MIM,Military Camp,Britannia
+466,16168,51.733333,-1.983333,Dressel 20,Cirencester,QIMNHM,Military Camp,Britannia
+467,16223,51.733333,-1.983333,Dressel 20,Cirencester,PIVLICRISPI,Military Camp,Britannia
+468,16280,51.733333,-1.983333,Dressel 20,Cirencester,IMIP,Military Camp,Britannia
+469,16281,51.733333,-1.983333,Dressel 20,Cirencester,LIVEI,Military Camp,Britannia
+470,16294,51.733333,-1.983333,Dressel 20,Cirencester,IIIVNIMEE,Military Camp,Britannia
+471,16413,51.733333,-1.983333,Dressel 20,Cirencester,CMAQOF,Military Camp,Britannia
+472,16428,51.733333,-1.983333,Dressel 20,Cirencester,MAVRI,Military Camp,Britannia
+473,16452,51.733333,-1.983333,Dressel 20,Cirencester,ANAR,Military Camp,Britannia
+474,16455,51.733333,-1.983333,Dressel 20,Cirencester,QNDFAB,Military Camp,Britannia
+475,16478,51.733333,-1.983333,Dressel 20,Cirencester,PNN,Military Camp,Britannia
+476,16517,51.733333,-1.983333,Dressel 20,Cirencester,PNS,Military Camp,Britannia
+477,16548,51.733333,-1.983333,Dressel 20,Cirencester,DOMS,Military Camp,Britannia
+478,16567,51.733333,-1.983333,Dressel 20,Cirencester,POROPHI,Military Camp,Britannia
+479,16590,51.733333,-1.983333,Dressel 20,Cirencester,CPCAMO,Military Camp,Britannia
+480,16638,51.733333,-1.983333,Dressel 20,Cirencester,LQA,Military Camp,Britannia
+481,16641,51.733333,-1.983333,Dressel 20,Cirencester,MQFF,Military Camp,Britannia
+482,16648,51.733333,-1.983333,Dressel 20,Cirencester,PQFF,Military Camp,Britannia
+483,16651,51.733333,-1.983333,Dressel 20,Cirencester,LQS,Military Camp,Britannia
+484,16692,51.733333,-1.983333,Dressel 20,Cirencester,LRPHCON,Military Camp,Britannia
+485,16702,51.733333,-1.983333,Dressel 20,Cirencester,ROMANI,Military Camp,Britannia
+486,16707,51.733333,-1.983333,Dressel 20,Cirencester,ROMANIPALMA,Military Camp,Britannia
+487,16720,51.733333,-1.983333,Dressel 20,Cirencester,RVFATITAE,Military Camp,Britannia
+488,16806,51.733333,-1.983333,Dressel 20,Cirencester,LSEP,Military Camp,Britannia
+489,16836,51.733333,-1.983333,Dressel 20,Cirencester,SATVRNINI,Military Camp,Britannia
+490,16837,51.733333,-1.983333,Dressel 20,Cirencester,SATVRNINI,Military Camp,Britannia
+491,16859,51.733333,-1.983333,Dressel 20,Cirencester,SAXOFERREO,Military Camp,Britannia
+492,16860,51.733333,-1.983333,Dressel 20,Cirencester,SAXOFERRO,Military Camp,Britannia
+493,16862,51.733333,-1.983333,Dressel 20,Cirencester,SAXOFERO,Military Camp,Britannia
+494,16908,51.733333,-1.983333,Dressel 20,Cirencester,FSCIMNIA,Military Camp,Britannia
+495,16919,51.733333,-1.983333,Dressel 20,Cirencester,FSCIMNIOANO,Military Camp,Britannia
+496,16923,51.733333,-1.983333,Dressel 20,Cirencester,FHEDERASCIMNIANO,Military Camp,Britannia
+497,16940,51.733333,-1.983333,Dressel 20,Cirencester,LSELSENCI,Military Camp,Britannia
+498,16950,51.733333,-1.983333,Dressel 20,Cirencester,CSEMPOL,Military Camp,Britannia
+499,17060,51.733333,-1.983333,Dressel 20,Cirencester,LVALVIT,Military Camp,Britannia
+500,17092,51.733333,-1.983333,Dressel 20,Cirencester,VRCIN,Military Camp,Britannia
+501,17119,51.733333,-1.983333,Dressel 20,Cirencester,CR,Military Camp,Britannia
+502,17141,51.733333,-1.983333,Dressel 20,Cirencester,MS,Military Camp,Britannia
+503,17153,51.733333,-1.983333,Dressel 20,Cirencester,Q,Military Camp,Britannia
+504,17180,51.733333,-1.983333,Dressel 20,Cirencester,ASPHEDERA,Military Camp,Britannia
+505,17218,51.733333,-1.983333,Dressel 20,Cirencester,SAT,Military Camp,Britannia
+507,15433,51.883333,0.9,Dressel 20,Colchester,SALS,Military Camp,Britannia
+508,15439,51.883333,0.9,Dressel 20,Colchester,LAM,Military Camp,Britannia
+509,15441,51.883333,0.9,Dressel 20,Colchester,SAMIS,Military Camp,Britannia
+510,15442,51.883333,0.9,Dressel 20,Colchester,SAMIS,Military Camp,Britannia
+511,15452,51.883333,0.9,Dressel 20,Colchester,LAR,Military Camp,Britannia
+512,15459,51.883333,0.9,Dressel 20,Colchester,PORLAR,Military Camp,Britannia
+513,15472,51.883333,0.9,Dressel 20,Colchester,MAR,Military Camp,Britannia
+514,15489,51.883333,0.9,Dressel 20,Colchester,ACIRGI,Military Camp,Britannia
+515,15512,51.883333,0.9,Dressel 20,Colchester,ACIRG,Military Camp,Britannia
+516,15516,51.883333,0.9,Dressel 20,Colchester,MAEALEX,Military Camp,Britannia
+517,15530,51.883333,0.9,Dressel 20,Colchester,MAEMRVS,Military Camp,Britannia
+518,15536,51.883333,0.9,Dressel 20,Colchester,LAEMILIRVST,Military Camp,Britannia
+519,15537,51.883333,0.9,Dressel 20,Colchester,AFGRISSVS,Military Camp,Britannia
+520,15548,51.883333,0.9,Dressel 20,Colchester,AGRICOLAE,Military Camp,Britannia
+521,15561,51.883333,0.9,Dressel 20,Colchester,LANNISEC,Military Camp,Britannia
+522,15564,51.883333,0.9,Dressel 20,Colchester,ANTHI,Military Camp,Britannia
+523,15567,51.883333,0.9,Dressel 20,Colchester,CANTONIQVIETI,Military Camp,Britannia
+524,15569,51.883333,0.9,Dressel 20,Colchester,GANTONIQVIETI,Military Camp,Britannia
+525,15584,51.883333,0.9,Dressel 20,Colchester,GANTQVIETI,Military Camp,Britannia
+526,15597,51.883333,0.9,Dressel 20,Colchester,CANTQVIT,Military Camp,Britannia
+527,15630,51.883333,0.9,Dressel 20,Colchester,CAPF,Military Camp,Britannia
+528,15636,51.883333,0.9,Dressel 20,Colchester,PARVA,Military Camp,Britannia
+529,15645,51.883333,0.9,Dressel 20,Colchester,TATILASIATICI,Military Camp,Britannia
+530,15651,51.883333,0.9,Dressel 20,Colchester,TAATIATICI,Military Camp,Britannia
+531,15678,51.883333,0.9,Dressel 20,Colchester,IIAVRHERACLAEPATETFILBAR,Military Camp,Britannia
+532,15706,51.883333,0.9,Dressel 20,Colchester,LCANT,Military Camp,Britannia
+533,15713,51.883333,0.9,Dressel 20,Colchester,MCC,Military Camp,Britannia
+534,15731,51.883333,0.9,Dressel 20,Colchester,QCC,Military Camp,Britannia
+535,15746,51.883333,0.9,Dressel 20,Colchester,LCFPC,Military Camp,Britannia
+536,15760,51.883333,0.9,Dressel 20,Colchester,PCHO,Military Camp,Britannia
+537,15780,51.883333,0.9,Dressel 20,Colchester,QCR,Military Camp,Britannia
+538,15793,51.883333,0.9,Dressel 20,Colchester,QCR,Military Camp,Britannia
+539,15848,51.883333,0.9,Dressel 20,Colchester,IICAMILIMELISSI,Military Camp,Britannia
+540,15857,51.883333,0.9,Dressel 20,Colchester,CIVNCTINCIVNCITIN,Military Camp,Britannia
+541,15862,51.883333,0.9,Dressel 20,Colchester,MCLSP,Military Camp,Britannia
+542,15863,51.883333,0.9,Dressel 20,Colchester,SCLC,Military Camp,Britannia
+543,15884,51.883333,0.9,Dressel 20,Colchester,GRVM,Military Camp,Britannia
+544,15885,51.883333,0.9,Dressel 20,Colchester,PORD,Military Camp,Britannia
+545,15888,51.883333,0.9,Dressel 20,Colchester,CEC,Military Camp,Britannia
+546,15908,51.883333,0.9,Dressel 20,Colchester,FIGEDOPPAEF,Military Camp,Britannia
+547,15909,51.883333,0.9,Dressel 20,Colchester,FIGEDOPPAEFVSCIANI,Military Camp,Britannia
+548,15947,51.883333,0.9,Dressel 20,Colchester,QFALBQFAP,Military Camp,Britannia
+549,15953,51.883333,0.9,Dressel 20,Colchester,CFAV,Military Camp,Britannia
+550,15970,51.883333,0.9,Dressel 20,Colchester,LFCL,Military Camp,Britannia
+551,16013,51.883333,0.9,Dressel 20,Colchester,DFN,Military Camp,Britannia
+552,16020,51.883333,0.9,Dressel 20,Colchester,LFS,Military Camp,Britannia
+553,16022,51.883333,0.9,Dressel 20,Colchester,PORFS,Military Camp,Britannia
+554,16023,51.883333,0.9,Dressel 20,Colchester,PORLFS,Military Camp,Britannia
+555,16025,51.883333,0.9,Dressel 20,Colchester,PORLFS,Military Camp,Britannia
+556,16026,51.883333,0.9,Dressel 20,Colchester,PORLFS,Military Camp,Britannia
+557,16028,51.883333,0.9,Dressel 20,Colchester,PORLFS,Military Camp,Britannia
+558,16033,51.883333,0.9,Dressel 20,Colchester,CFVA,Military Camp,Britannia
+559,16037,51.883333,0.9,Dressel 20,Colchester,FELICIS,Military Camp,Britannia
+560,16044,51.883333,0.9,Dressel 20,Colchester,QFRME,Military Camp,Britannia
+561,16045,51.883333,0.9,Dressel 20,Colchester,FFVTI,Military Camp,Britannia
+562,16051,51.883333,0.9,Dressel 20,Colchester,PHILO,Military Camp,Britannia
+563,16052,51.883333,0.9,Dressel 20,Colchester,PHILO,Military Camp,Britannia
+564,16057,51.883333,0.9,Dressel 20,Colchester,MHAS,Military Camp,Britannia
+565,16088,51.883333,0.9,Dressel 20,Colchester,QIAFS,Military Camp,Britannia
+566,16103,51.883333,0.9,Dressel 20,Colchester,ALB,Military Camp,Britannia
+567,16111,51.883333,0.9,Dressel 20,Colchester,CIALB,Military Camp,Britannia
+568,16128,51.883333,0.9,Dressel 20,Colchester,MIM,Military Camp,Britannia
+569,16131,51.883333,0.9,Dressel 20,Colchester,MIM,Military Camp,Britannia
+570,16136,51.883333,0.9,Dressel 20,Colchester,MIM,Military Camp,Britannia
+571,16137,51.883333,0.9,Dressel 20,Colchester,MIM,Military Camp,Britannia
+572,16164,51.883333,0.9,Dressel 20,Colchester,QIMF,Military Camp,Britannia
+573,16175,51.883333,0.9,Dressel 20,Colchester,CIR,Military Camp,Britannia
+574,16186,51.883333,0.9,Dressel 20,Colchester,AIS,Military Camp,Britannia
+575,16190,51.883333,0.9,Dressel 20,Colchester,SISEN,Military Camp,Britannia
+576,16191,51.883333,0.9,Dressel 20,Colchester,SISEN,Military Camp,Britannia
+577,16192,51.883333,0.9,Dressel 20,Colchester,SI,Military Camp,Britannia
+578,16240,51.883333,0.9,Dressel 20,Colchester,LIVNIMELISSI,Military Camp,Britannia
+579,16249,51.883333,0.9,Dressel 20,Colchester,IIIVNIMELISSETMELISSE,Military Camp,Britannia
+580,16283,51.883333,0.9,Dressel 20,Colchester,IVNIMISSIP,Military Camp,Britannia
+581,16284,51.883333,0.9,Dressel 20,Colchester,LIVNIMELISSI,Military Camp,Britannia
+582,16292,51.883333,0.9,Dressel 20,Colchester,ISSISEHEDERA,Military Camp,Britannia
+583,16300,51.883333,0.9,Dressel 20,Colchester,IIIVNIETM,Military Camp,Britannia
+584,16329,51.883333,0.9,Dressel 20,Colchester,GLPVDE,Military Camp,Britannia
+585,16337,51.883333,0.9,Dressel 20,Colchester,SLTSAXFERR,Military Camp,Britannia
+586,16338,51.883333,0.9,Dressel 20,Colchester,SLTSAXFERR,Military Camp,Britannia
+587,16349,51.883333,0.9,Dressel 20,Colchester,QMCAL,Military Camp,Britannia
+588,16431,51.883333,0.9,Dressel 20,Colchester,IIIMINICIORPALMA,Military Camp,Britannia
+589,16434,51.883333,0.9,Dressel 20,Colchester,IIIMIICIOR,Military Camp,Britannia
+590,16475,51.883333,0.9,Dressel 20,Colchester,PNN,Military Camp,Britannia
+591,16477,51.883333,0.9,Dressel 20,Colchester,PNN,Military Camp,Britannia
+592,16481,51.883333,0.9,Dressel 20,Colchester,PN,Military Camp,Britannia
+593,16482,51.883333,0.9,Dressel 20,Colchester,PNNPALMA,Military Camp,Britannia
+594,16485,51.883333,0.9,Dressel 20,Colchester,AVPNN,Military Camp,Britannia
+595,16492,51.883333,0.9,Dressel 20,Colchester,PNN,Military Camp,Britannia
+596,16493,51.883333,0.9,Dressel 20,Colchester,PNN,Military Camp,Britannia
+597,16494,51.883333,0.9,Dressel 20,Colchester,PNN,Military Camp,Britannia
+598,16519,51.883333,0.9,Dressel 20,Colchester,PNZI,Military Camp,Britannia
+599,16556,51.883333,0.9,Dressel 20,Colchester,DOMS,Military Camp,Britannia
+600,16575,51.883333,0.9,Dressel 20,Colchester,POROCODV,Military Camp,Britannia
+601,16587,51.883333,0.9,Dressel 20,Colchester,CP,Military Camp,Britannia
+602,16588,51.883333,0.9,Dressel 20,Colchester,LPAECPCPALMA,Military Camp,Britannia
+603,16603,51.883333,0.9,Dressel 20,Colchester,LPMS,Military Camp,Britannia
+604,16622,51.883333,0.9,Dressel 20,Colchester,PATERNI,Military Camp,Britannia
+605,16623,51.883333,0.9,Dressel 20,Colchester,FPATERNI,Military Camp,Britannia
+606,16626,51.883333,0.9,Dressel 20,Colchester,PONTIC,Military Camp,Britannia
+607,16630,51.883333,0.9,Dressel 20,Colchester,POP,Military Camp,Britannia
+608,16632,51.883333,0.9,Dressel 20,Colchester,POR,Military Camp,Britannia
+609,16657,51.883333,0.9,Dressel 20,Colchester,LQS,Military Camp,Britannia
+610,16658,51.883333,0.9,Dressel 20,Colchester,LQS,Military Camp,Britannia
+611,16659,51.883333,0.9,Dressel 20,Colchester,LQS,Military Camp,Britannia
+612,16675,51.883333,0.9,Dressel 20,Colchester,LQS,Military Camp,Britannia
+613,16676,51.883333,0.9,Dressel 20,Colchester,QS,Military Camp,Britannia
+614,16677,51.883333,0.9,Dressel 20,Colchester,PQSF,Military Camp,Britannia
+615,16679,51.883333,0.9,Dressel 20,Colchester,QVINTI,Military Camp,Britannia
+616,16710,51.883333,0.9,Dressel 20,Colchester,ROM,Military Camp,Britannia
+617,16729,51.883333,0.9,Dressel 20,Colchester,PORPSA,Military Camp,Britannia
+618,16731,51.883333,0.9,Dressel 20,Colchester,QS,Military Camp,Britannia
+619,16732,51.883333,0.9,Dressel 20,Colchester,QS,Military Camp,Britannia
+620,16737,51.883333,0.9,Dressel 20,Colchester,PSVITI,Military Camp,Britannia
+621,16743,51.883333,0.9,Dressel 20,Colchester,PSAV,Military Camp,Britannia
+622,16748,51.883333,0.9,Dressel 20,Colchester,PS,Military Camp,Britannia
+623,16750,51.883333,0.9,Dressel 20,Colchester,PSAVI,Military Camp,Britannia
+624,16751,51.883333,0.9,Dressel 20,Colchester,ISCALLIF,Military Camp,Britannia
+625,16752,51.883333,0.9,Dressel 20,Colchester,QSD,Military Camp,Britannia
+626,16782,51.883333,0.9,Dressel 20,Colchester,PYR,Military Camp,Britannia
+627,16786,51.883333,0.9,Dressel 20,Colchester,QSP,Military Camp,Britannia
+628,16791,51.883333,0.9,Dressel 20,Colchester,QS,Military Camp,Britannia
+629,16792,51.883333,0.9,Dressel 20,Colchester,QS,Military Camp,Britannia
+630,16813,51.883333,0.9,Dressel 20,Colchester,EVSANIANES,Military Camp,Britannia
+631,16817,51.883333,0.9,Dressel 20,Colchester,SAENIANES,Military Camp,Britannia
+632,16832,51.883333,0.9,Dressel 20,Colchester,SATVRNINI,Military Camp,Britannia
+633,16833,51.883333,0.9,Dressel 20,Colchester,SATVRNINI,Military Camp,Britannia
+634,16842,51.883333,0.9,Dressel 20,Colchester,SATVRNINI,Military Camp,Britannia
+635,16843,51.883333,0.9,Dressel 20,Colchester,SATVRNINI,Military Camp,Britannia
+636,16844,51.883333,0.9,Dressel 20,Colchester,SATVRNINI,Military Camp,Britannia
+637,16846,51.883333,0.9,Dressel 20,Colchester,SATVRNI,Military Camp,Britannia
+638,16848,51.883333,0.9,Dressel 20,Colchester,SATVNI,Military Camp,Britannia
+639,16864,51.883333,0.9,Dressel 20,Colchester,SAXFER,Military Camp,Britannia
+640,16905,51.883333,0.9,Dressel 20,Colchester,FSCIMNIANI,Military Camp,Britannia
+641,16925,51.883333,0.9,Dressel 20,Colchester,FSCIMNIANO,Military Camp,Britannia
+642,16941,51.883333,0.9,Dressel 20,Colchester,LSELSENC,Military Camp,Britannia
+643,16945,51.883333,0.9,Dressel 20,Colchester,CSEMPOLY,Military Camp,Britannia
+644,16946,51.883333,0.9,Dressel 20,Colchester,CSEMPPOLY,Military Camp,Britannia
+645,16951,51.883333,0.9,Dressel 20,Colchester,CSEMPO,Military Camp,Britannia
+646,16956,51.883333,0.9,Dressel 20,Colchester,CSEMPPOL,Military Camp,Britannia
+647,16962,51.883333,0.9,Dressel 20,Colchester,CSEMPPO,Military Camp,Britannia
+648,16963,51.883333,0.9,Dressel 20,Colchester,CSEM,Military Camp,Britannia
+649,16964,51.883333,0.9,Dressel 20,Colchester,CSEM,Military Camp,Britannia
+650,16965,51.883333,0.9,Dressel 20,Colchester,CSEMPO,Military Camp,Britannia
+651,16966,51.883333,0.9,Dressel 20,Colchester,CSEMPO,Military Camp,Britannia
+652,16967,51.883333,0.9,Dressel 20,Colchester,CSEMPOL,Military Camp,Britannia
+653,16968,51.883333,0.9,Dressel 20,Colchester,CSEMPOLPCLYCL,Military Camp,Britannia
+654,16969,51.883333,0.9,Dressel 20,Colchester,CSEMPOLYCL,Military Camp,Britannia
+655,16970,51.883333,0.9,Dressel 20,Colchester,POLYL,Military Camp,Britannia
+656,16975,51.883333,0.9,Dressel 20,Colchester,CSEMPOL,Military Camp,Britannia
+657,16978,51.883333,0.9,Dressel 20,Colchester,SER,Military Camp,Britannia
+658,16998,51.883333,0.9,Dressel 20,Colchester,SVR,Military Camp,Britannia
+659,17014,51.883333,0.9,Dressel 20,Colchester,LVAPALMA,Military Camp,Britannia
+660,17030,51.883333,0.9,Dressel 20,Colchester,QVLELIANIANI,Military Camp,Britannia
+661,17041,51.883333,0.9,Dressel 20,Colchester,CVVA,Military Camp,Britannia
+662,17066,51.883333,0.9,Dressel 20,Colchester,LVARIONIS,Military Camp,Britannia
+663,17135,51.883333,0.9,Dressel 20,Colchester,M,Military Camp,Britannia
+664,20476,51.883333,0.9,Dressel 20,Colchester,GAF,Military Camp,Britannia
+665,20657,51.883333,0.9,Dressel 20,Colchester,LFAXATI,Military Camp,Britannia
+666,20732,51.883333,0.9,Dressel 20,Colchester,SCL,Military Camp,Britannia
+667,25428,51.883333,0.9,Dressel 20,Colchester,PSAVITI,Military Camp,Britannia
+668,25439,51.883333,0.9,Dressel 20,Colchester,SISEN,Military Camp,Britannia
+669,25449,51.883333,0.9,Dressel 20,Colchester,TERTI,Military Camp,Britannia
+670,28104,51.883333,0.9,Dressel 20,Colchester,LQSF,Military Camp,Britannia
+671,29365,51.883333,0.9,Dressel 20,Colchester,LFS,Military Camp,Britannia
+672,15397,54.966667,-2.016667,Dressel 20,Corbridge,CAPF,Military Camp,Britannia
+673,15398,54.966667,-2.016667,Dressel 20,Corbridge,GAF,Military Camp,Britannia
+674,15399,54.966667,-2.016667,Dressel 20,Corbridge,CAFEM,Military Camp,Britannia
+675,15402,54.966667,-2.016667,Dressel 20,Corbridge,LAF,Military Camp,Britannia
+676,15432,54.966667,-2.016667,Dressel 20,Corbridge,SALS,Military Camp,Britannia
+677,15440,54.966667,-2.016667,Dressel 20,Corbridge,MAMMAS,Military Camp,Britannia
+678,15444,54.966667,-2.016667,Dressel 20,Corbridge,TFAMV,Military Camp,Britannia
+679,15448,54.966667,-2.016667,Dressel 20,Corbridge,DAP,Military Camp,Britannia
+680,15475,54.966667,-2.016667,Dressel 20,Corbridge,PAR,Military Camp,Britannia
+681,15490,54.966667,-2.016667,Dressel 20,Corbridge,ACIRGIFACIRCIPALMA,Military Camp,Britannia
+682,15491,54.966667,-2.016667,Dressel 20,Corbridge,ACIRGI,Military Camp,Britannia
+683,15492,54.966667,-2.016667,Dressel 20,Corbridge,ACIRGIPALMA,Military Camp,Britannia
+684,15493,54.966667,-2.016667,Dressel 20,Corbridge,ACIRGI,Military Camp,Britannia
+685,15494,54.966667,-2.016667,Dressel 20,Corbridge,ACIRGI,Military Camp,Britannia
+686,15508,54.966667,-2.016667,Dressel 20,Corbridge,ACIRGI,Military Camp,Britannia
+687,15509,54.966667,-2.016667,Dressel 20,Corbridge,ACIRGI,Military Camp,Britannia
+688,15550,54.966667,-2.016667,Dressel 20,Corbridge,ALBMFNARCACIRC,Military Camp,Britannia
+689,15627,54.966667,-2.016667,Dressel 20,Corbridge,CAPF,Military Camp,Britannia
+690,15628,54.966667,-2.016667,Dressel 20,Corbridge,CAPF,Military Camp,Britannia
+691,15680,54.966667,-2.016667,Dressel 20,Corbridge,IIAVRHERACLAEPATETFILFBAR,Military Camp,Britannia
+692,15715,54.966667,-2.016667,Dressel 20,Corbridge,MCC,Military Camp,Britannia
+693,15721,54.966667,-2.016667,Dressel 20,Corbridge,QCCL,Military Camp,Britannia
+694,15740,54.966667,-2.016667,Dressel 20,Corbridge,LCFPC,Military Camp,Britannia
+695,15745,54.966667,-2.016667,Dressel 20,Corbridge,LCFPC,Military Camp,Britannia
+696,15762,54.966667,-2.016667,Dressel 20,Corbridge,PCICELI,Military Camp,Britannia
+697,15766,54.966667,-2.016667,Dressel 20,Corbridge,LCM,Military Camp,Britannia
+698,15773,54.966667,-2.016667,Dressel 20,Corbridge,QCM,Military Camp,Britannia
+699,15779,54.966667,-2.016667,Dressel 20,Corbridge,LCQ,Military Camp,Britannia
+700,15822,54.966667,-2.016667,Dressel 20,Corbridge,MMCSVR,Military Camp,Britannia
+701,15825,54.966667,-2.016667,Dressel 20,Corbridge,MCSR,Military Camp,Britannia
+702,15829,54.966667,-2.016667,Dressel 20,Corbridge,MCSR,Military Camp,Britannia
+703,15836,54.966667,-2.016667,Dressel 20,Corbridge,CALHEDERALISIVSF,Military Camp,Britannia
+704,15894,54.966667,-2.016667,Dressel 20,Corbridge,DEF,Military Camp,Britannia
+705,15903,54.966667,-2.016667,Dressel 20,Corbridge,SEMETPPI,Military Camp,Britannia
+706,15919,54.966667,-2.016667,Dressel 20,Corbridge,IIIENNIIVL,Military Camp,Britannia
+707,15921,54.966667,-2.016667,Dressel 20,Corbridge,IIIENNIIVLPALMA,Military Camp,Britannia
+708,15922,54.966667,-2.016667,Dressel 20,Corbridge,IIIENNIIVLPALMA,Military Camp,Britannia
+709,15923,54.966667,-2.016667,Dressel 20,Corbridge,IIIENNIIVLPALMA,Military Camp,Britannia
+710,15933,54.966667,-2.016667,Dressel 20,Corbridge,IIIENNIIVLPALMA,Military Camp,Britannia
+711,15943,54.966667,-2.016667,Dressel 20,Corbridge,EVTSTERPS,Military Camp,Britannia
+712,15958,54.966667,-2.016667,Dressel 20,Corbridge,LFCCOL,Military Camp,Britannia
+713,15960,54.966667,-2.016667,Dressel 20,Corbridge,LFCCVCAT,Military Camp,Britannia
+714,15961,54.966667,-2.016667,Dressel 20,Corbridge,LFCCVCAT,Military Camp,Britannia
+715,15962,54.966667,-2.016667,Dressel 20,Corbridge,LFCCVCAT,Military Camp,Britannia
+716,15966,54.966667,-2.016667,Dressel 20,Corbridge,LFCCVFS,Military Camp,Britannia
+717,15971,54.966667,-2.016667,Dressel 20,Corbridge,LFCSENTILFCSENI,Military Camp,Britannia
+718,15973,54.966667,-2.016667,Dressel 20,Corbridge,LFCSENTI,Military Camp,Britannia
+719,15975,54.966667,-2.016667,Dressel 20,Corbridge,AECAAFCA,Military Camp,Britannia
+720,15979,54.966667,-2.016667,Dressel 20,Corbridge,MFC,Military Camp,Britannia
+721,15988,54.966667,-2.016667,Dressel 20,Corbridge,SFE,Military Camp,Britannia
+722,15992,54.966667,-2.016667,Dressel 20,Corbridge,SFE,Military Camp,Britannia
+723,15999,54.966667,-2.016667,Dressel 20,Corbridge,SFELQS,Military Camp,Britannia
+724,16005,54.966667,-2.016667,Dressel 20,Corbridge,MFF,Military Camp,Britannia
+725,16007,54.966667,-2.016667,Dressel 20,Corbridge,QFF,Military Camp,Britannia
+726,16029,54.966667,-2.016667,Dressel 20,Corbridge,MFS,Military Camp,Britannia
+727,16062,54.966667,-2.016667,Dressel 20,Corbridge,HERMESF,Military Camp,Britannia
+728,16078,54.966667,-2.016667,Dressel 20,Corbridge,DIA,Military Camp,Britannia
+729,16085,54.966667,-2.016667,Dressel 20,Corbridge,QIA,Military Camp,Britannia
+730,16090,54.966667,-2.016667,Dressel 20,Corbridge,QIAFS,Military Camp,Britannia
+731,16106,54.966667,-2.016667,Dressel 20,Corbridge,CIALBGIALB,Military Camp,Britannia
+732,16119,54.966667,-2.016667,Dressel 20,Corbridge,NICXIIII,Military Camp,Britannia
+733,16173,54.966667,-2.016667,Dressel 20,Corbridge,SIP,Military Camp,Britannia
+734,16189,54.966667,-2.016667,Dressel 20,Corbridge,CIS,Military Camp,Britannia
+735,16197,54.966667,-2.016667,Dressel 20,Corbridge,LIT,Military Camp,Britannia
+736,16199,54.966667,-2.016667,Dressel 20,Corbridge,LIT,Military Camp,Britannia
+737,16200,54.966667,-2.016667,Dressel 20,Corbridge,LIT,Military Camp,Britannia
+738,16202,54.966667,-2.016667,Dressel 20,Corbridge,LIT,Military Camp,Britannia
+739,16213,54.966667,-2.016667,Dressel 20,Corbridge,LIT,Military Camp,Britannia
+740,16214,54.966667,-2.016667,Dressel 20,Corbridge,LIT,Military Camp,Britannia
+741,16232,54.966667,-2.016667,Dressel 20,Corbridge,CIVNAPNNARARVA,Military Camp,Britannia
+742,16265,54.966667,-2.016667,Dressel 20,Corbridge,LIVNIMELISSIP,Military Camp,Britannia
+743,16266,54.966667,-2.016667,Dressel 20,Corbridge,LIVNIMELISSIP,Military Camp,Britannia
+744,16279,54.966667,-2.016667,Dressel 20,Corbridge,LIVNIMELISSIP,Military Camp,Britannia
+745,16303,54.966667,-2.016667,Dressel 20,Corbridge,MLFCTL,Military Camp,Britannia
+746,16310,54.966667,-2.016667,Dressel 20,Corbridge,ALFO,Military Camp,Britannia
+747,16342,54.966667,-2.016667,Dressel 20,Corbridge,LICISPECFCPM,Military Camp,Britannia
+748,16345,54.966667,-2.016667,Dressel 20,Corbridge,PM,Military Camp,Britannia
+749,16351,54.966667,-2.016667,Dressel 20,Corbridge,QMCALIAIDIS,Military Camp,Britannia
+750,16363,54.966667,-2.016667,Dressel 20,Corbridge,CMM,Military Camp,Britannia
+751,16364,54.966667,-2.016667,Dressel 20,Corbridge,PMMASS,Military Camp,Britannia
+752,16365,54.966667,-2.016667,Dressel 20,Corbridge,GMMF,Military Camp,Britannia
+753,16366,54.966667,-2.016667,Dressel 20,Corbridge,GMMF,Military Camp,Britannia
+754,16383,54.966667,-2.016667,Dressel 20,Corbridge,QMR,Military Camp,Britannia
+755,16385,54.966667,-2.016667,Dressel 20,Corbridge,QMR,Military Camp,Britannia
+756,16386,54.966667,-2.016667,Dressel 20,Corbridge,QMR,Military Camp,Britannia
+757,16398,54.966667,-2.016667,Dressel 20,Corbridge,QMS,Military Camp,Britannia
+758,16402,54.966667,-2.016667,Dressel 20,Corbridge,PMV,Military Camp,Britannia
+759,16403,54.966667,-2.016667,Dressel 20,Corbridge,PMV,Military Camp,Britannia
+760,16433,54.966667,-2.016667,Dressel 20,Corbridge,IIIMINICIOR,Military Camp,Britannia
+761,16437,54.966667,-2.016667,Dressel 20,Corbridge,IIMINACRETCAL,Military Camp,Britannia
+762,16474,54.966667,-2.016667,Dressel 20,Corbridge,PNN,Military Camp,Britannia
+763,16503,54.966667,-2.016667,Dressel 20,Corbridge,SNR,Military Camp,Britannia
+764,16504,54.966667,-2.016667,Dressel 20,Corbridge,SNR,Military Camp,Britannia
+765,16506,54.966667,-2.016667,Dressel 20,Corbridge,SNR,Military Camp,Britannia
+766,16514,54.966667,-2.016667,Dressel 20,Corbridge,SNR,Military Camp,Britannia
+767,16516,54.966667,-2.016667,Dressel 20,Corbridge,MNS,Military Camp,Britannia
+768,16532,54.966667,-2.016667,Dressel 20,Corbridge,DOMS,Military Camp,Britannia
+769,16533,54.966667,-2.016667,Dressel 20,Corbridge,DOMS,Military Camp,Britannia
+770,16534,54.966667,-2.016667,Dressel 20,Corbridge,DOMS,Military Camp,Britannia
+771,16535,54.966667,-2.016667,Dressel 20,Corbridge,DOMS,Military Camp,Britannia
+772,16550,54.966667,-2.016667,Dressel 20,Corbridge,DOMS,Military Camp,Britannia
+773,16555,54.966667,-2.016667,Dressel 20,Corbridge,DOMS,Military Camp,Britannia
+774,16606,54.966667,-2.016667,Dressel 20,Corbridge,SPP,Military Camp,Britannia
+775,16643,54.966667,-2.016667,Dressel 20,Corbridge,MQFF,Military Camp,Britannia
+776,16649,54.966667,-2.016667,Dressel 20,Corbridge,SQF,Military Camp,Britannia
+777,16655,54.966667,-2.016667,Dressel 20,Corbridge,LQS,Military Camp,Britannia
+778,16663,54.966667,-2.016667,Dressel 20,Corbridge,LQS,Military Camp,Britannia
+779,16664,54.966667,-2.016667,Dressel 20,Corbridge,LHEDERAQHEDERASHEDERA,Military Camp,Britannia
+780,16688,54.966667,-2.016667,Dressel 20,Corbridge,OFGRAROP,Military Camp,Britannia
+781,16739,54.966667,-2.016667,Dressel 20,Corbridge,MSPPSANI,Military Camp,Britannia
+782,16772,54.966667,-2.016667,Dressel 20,Corbridge,FIGLINACIRGIMSMAVRIANIFIGLINACIRGIMSMAVRIAX,Military Camp,Britannia
+783,16808,54.966667,-2.016667,Dressel 20,Corbridge,LHEDERASV,Military Camp,Britannia
+784,16828,54.966667,-2.016667,Dressel 20,Corbridge,QSASER,Military Camp,Britannia
+785,16872,54.966667,-2.016667,Dressel 20,Corbridge,SCAL,Military Camp,Britannia
+786,16875,54.966667,-2.016667,Dressel 20,Corbridge,SCA,Military Camp,Britannia
+787,16903,54.966667,-2.016667,Dressel 20,Corbridge,FSCIMNIANI,Military Camp,Britannia
+788,16912,54.966667,-2.016667,Dressel 20,Corbridge,FSCIMNIANO,Military Camp,Britannia
+789,16926,54.966667,-2.016667,Dressel 20,Corbridge,FSCIMNIANO,Military Camp,Britannia
+790,16927,54.966667,-2.016667,Dressel 20,Corbridge,FSCIMNIANO,Military Camp,Britannia
+791,16928,54.966667,-2.016667,Dressel 20,Corbridge,FSCIMNIANO,Military Camp,Britannia
+792,16929,54.966667,-2.016667,Dressel 20,Corbridge,FSCIMNIANO,Military Camp,Britannia
+793,16930,54.966667,-2.016667,Dressel 20,Corbridge,FSCIMNIANO,Military Camp,Britannia
+794,16986,54.966667,-2.016667,Dressel 20,Corbridge,SEX,Military Camp,Britannia
+795,17007,54.966667,-2.016667,Dressel 20,Corbridge,CTYC,Military Camp,Britannia
+796,17024,54.966667,-2.016667,Dressel 20,Corbridge,QVCVIR,Military Camp,Britannia
+797,17029,54.966667,-2.016667,Dressel 20,Corbridge,LVL,Military Camp,Britannia
+798,17032,54.966667,-2.016667,Dressel 20,Corbridge,SVP,Military Camp,Britannia
+799,17080,54.966667,-2.016667,Dressel 20,Corbridge,VIRAV,Military Camp,Britannia
+800,17082,54.966667,-2.016667,Dressel 20,Corbridge,VIRAV,Military Camp,Britannia
+801,17086,54.966667,-2.016667,Dressel 20,Corbridge,VIRGINENSIA,Military Camp,Britannia
+802,17087,54.966667,-2.016667,Dressel 20,Corbridge,VIRGINENSIA,Military Camp,Britannia
+803,17090,54.966667,-2.016667,Dressel 20,Corbridge,VIRGINENSIA,Military Camp,Britannia
+804,17094,54.966667,-2.016667,Dressel 20,Corbridge,VIRI,Military Camp,Britannia
+805,17098,54.966667,-2.016667,Dressel 20,Corbridge,ISVIRG,Military Camp,Britannia
+806,17182,54.966667,-2.016667,Dressel 20,Corbridge,C,Military Camp,Britannia
+807,17192,54.966667,-2.016667,Dressel 20,Corbridge,FVES,Military Camp,Britannia
+808,17196,54.966667,-2.016667,Dressel 20,Corbridge,OICSVPVRO,Military Camp,Britannia
+809,17202,54.966667,-2.016667,Dressel 20,Corbridge,MHEDERA,Military Camp,Britannia
+810,25461,54.966667,-2.016667,Dressel 20,Corbridge,VIRIII,Military Camp,Britannia
+811,25462,54.966667,-2.016667,Dressel 20,Corbridge,VIRAV,Military Camp,Britannia
+812,32480,54.966667,-2.016667,Dressel 20,Corbridge,LFCCVCAT,Military Camp,Britannia
+813,32481,54.966667,-2.016667,Dressel 20,Corbridge,LIVNIMELISSIP,Military Camp,Britannia
+814,32482,54.966667,-2.016667,Dressel 20,Corbridge,LQS,Military Camp,Britannia
+815,32741,54.966667,-2.016667,Dressel 20,Corbridge,SABEL,Military Camp,Britannia
+816,32742,54.966667,-2.016667,Dressel 20,Corbridge,LCAX,Military Camp,Britannia
+817,32743,54.966667,-2.016667,Dressel 20,Corbridge,DECEB,Military Camp,Britannia
+818,32744,54.966667,-2.016667,Dressel 20,Corbridge,EXEGYYY,Military Camp,Britannia
+819,32745,54.966667,-2.016667,Dressel 20,Corbridge,GE,Military Camp,Britannia
+820,32746,54.966667,-2.016667,Dressel 20,Corbridge,MESI,Military Camp,Britannia
+821,32747,54.966667,-2.016667,Dressel 20,Corbridge,L,Military Camp,Britannia
+822,32748,54.966667,-2.016667,Dressel 20,Corbridge,LP,Military Camp,Britannia
+846,16344,55.5,-4.25,Dressel 20,East Ayrshire,M,none,Britannia
+847,16442,55.5,-4.25,Dressel 20,East Ayrshire,IN,none,Britannia
+848,17133,55.5,-4.25,Dressel 20,East Ayrshire,LV,none,Britannia
+849,17175,55.5,-4.25,Dressel 20,East Ayrshire,AL,none,Britannia
+850,17219,55.5,-4.25,Dressel 20,East Ayrshire,TAVIV,none,Britannia
+851,15637,55.95,-3.2,Dressel 20,Edinburgh,PARVA,none,Britannia
+852,15892,55.95,-3.2,Dressel 20,Edinburgh,DEF,none,Britannia
+853,16153,55.95,-3.2,Dressel 20,Edinburgh,QIM,none,Britannia
+854,16239,55.95,-3.2,Dressel 20,Edinburgh,LIVNIMELISSI,none,Britannia
+855,16275,55.95,-3.2,Dressel 20,Edinburgh,LIVNIMELISSIP,none,Britannia
+856,16276,55.95,-3.2,Dressel 20,Edinburgh,LIVNIMELISSIP,none,Britannia
+857,16463,55.95,-3.2,Dressel 20,Edinburgh,PNN,none,Britannia
+858,16470,55.95,-3.2,Dressel 20,Edinburgh,PNN,none,Britannia
+859,16471,55.95,-3.2,Dressel 20,Edinburgh,PNN,none,Britannia
+860,16473,55.95,-3.2,Dressel 20,Edinburgh,PNN,none,Britannia
+861,16497,55.95,-3.2,Dressel 20,Edinburgh,PNNIPALMA,none,Britannia
+862,16761,55.95,-3.2,Dressel 20,Edinburgh,LSLVPI,none,Britannia
+863,16897,55.95,-3.2,Dressel 20,Edinburgh,FSCIMNIANO,none,Britannia
+864,16898,55.95,-3.2,Dressel 20,Edinburgh,FSCIMNIANO,none,Britannia
+865,16899,55.95,-3.2,Dressel 20,Edinburgh,FSCIMNIANO,none,Britannia
+866,15406,50.7,-3.533333,Dressel 20,Exeter,QAGEMELLI,Civil Settlement,Britannia
+867,15676,50.7,-3.533333,Dressel 20,Exeter,PAVR,Civil Settlement,Britannia
+868,15797,50.7,-3.533333,Dressel 20,Exeter,QCRV,Civil Settlement,Britannia
+869,15855,50.7,-3.533333,Dressel 20,Exeter,GEMELLI,Civil Settlement,Britannia
+870,15895,50.7,-3.533333,Dressel 20,Exeter,CEFP,Civil Settlement,Britannia
+871,15902,50.7,-3.533333,Dressel 20,Exeter,CEFPVEV,Civil Settlement,Britannia
+872,15986,50.7,-3.533333,Dressel 20,Exeter,FC,Civil Settlement,Britannia
+873,16015,50.7,-3.533333,Dressel 20,Exeter,LFO,Civil Settlement,Britannia
+874,16124,50.7,-3.533333,Dressel 20,Exeter,MIM,Civil Settlement,Britannia
+875,16145,50.7,-3.533333,Dressel 20,Exeter,MIM,Civil Settlement,Britannia
+876,16149,50.7,-3.533333,Dressel 20,Exeter,MIMOPSI,Civil Settlement,Britannia
+877,16159,50.7,-3.533333,Dressel 20,Exeter,QIM,Civil Settlement,Britannia
+878,16311,50.7,-3.533333,Dressel 20,Exeter,AELFO,Civil Settlement,Britannia
+879,16411,50.7,-3.533333,Dressel 20,Exeter,LMVE,Civil Settlement,Britannia
+880,16563,50.7,-3.533333,Dressel 20,Exeter,POROCODV,Civil Settlement,Britannia
+881,16723,50.7,-3.533333,Dressel 20,Exeter,CS,Civil Settlement,Britannia
+882,16758,50.7,-3.533333,Dressel 20,Exeter,LSLP,Civil Settlement,Britannia
+883,16766,50.7,-3.533333,Dressel 20,Exeter,LSERM,Civil Settlement,Britannia
+884,17047,50.7,-3.533333,Dressel 20,Exeter,LVAGAL,Civil Settlement,Britannia
+885,17132,50.7,-3.533333,Dressel 20,Exeter,LMIL,Civil Settlement,Britannia
+886,17220,50.7,-3.533333,Dressel 20,Exeter,VA,Civil Settlement,Britannia
+892,15538,56,-3.766667,Dressel 20,Falkirk,AFITAL,Military Camp,Britannia
+893,15634,56,-3.766667,Dressel 20,Falkirk,QARPQAPP,Military Camp,Britannia
+894,15925,56,-3.766667,Dressel 20,Falkirk,IIIENNIIVLHEDERA,Military Camp,Britannia
+895,15926,56,-3.766667,Dressel 20,Falkirk,IIIENNIIVLHEDERA,Military Camp,Britannia
+896,16123,56,-3.766667,Dressel 20,Falkirk,MIM,Military Camp,Britannia
+897,16155,56,-3.766667,Dressel 20,Falkirk,QIM,Military Camp,Britannia
+898,16309,56,-3.766667,Dressel 20,Falkirk,ALFO,Military Camp,Britannia
+899,16320,56,-3.766667,Dressel 20,Falkirk,AELF,Military Camp,Britannia
+900,16382,56,-3.766667,Dressel 20,Falkirk,QMR,Military Camp,Britannia
+901,16536,56,-3.766667,Dressel 20,Falkirk,DOMS,Military Camp,Britannia
+902,16537,56,-3.766667,Dressel 20,Falkirk,DOMS,Military Camp,Britannia
+903,16546,56,-3.766667,Dressel 20,Falkirk,DOMS,Military Camp,Britannia
+904,16576,56,-3.766667,Dressel 20,Falkirk,CORCLE,Military Camp,Britannia
+905,16612,56,-3.766667,Dressel 20,Falkirk,QPHRYXI,Military Camp,Britannia
+906,17011,56,-3.766667,Dressel 20,Falkirk,FTREBECIANI,Military Camp,Britannia
+907,17155,56,-3.766667,Dressel 20,Falkirk,Q,Military Camp,Britannia
+908,4625,56,-3.766667,Dressel 20,Falkirk,SAXOFERREO,Military Camp,Britannia
+910,15844,50.833333,-0.8,Dressel 20,Fishbourne,QCALMARSI,Civil Settlement,Britannia
+911,16050,50.833333,-0.8,Dressel 20,Fishbourne,PHILO,Civil Settlement,Britannia
+912,16183,50.833333,-0.8,Dressel 20,Fishbourne,SIR,Civil Settlement,Britannia
+913,16210,50.833333,-0.8,Dressel 20,Fishbourne,LIT,Civil Settlement,Britannia
+914,16566,50.833333,-0.8,Dressel 20,Fishbourne,POOCODV,Civil Settlement,Britannia
+915,16704,50.833333,-0.8,Dressel 20,Fishbourne,ROMANI,Civil Settlement,Britannia
+916,16753,50.833333,-0.8,Dressel 20,Fishbourne,FAQVA,Civil Settlement,Britannia
+922,15523,51.833333,-2.25,Dressel 20,Gloucester,SAEQAR,Military Camp,Britannia
+923,15905,51.833333,-2.25,Dressel 20,Gloucester,REP,Military Camp,Britannia
+924,16611,51.833333,-2.25,Dressel 20,Gloucester,QPHRYXI,Military Camp,Britannia
+925,16645,51.833333,-2.25,Dressel 20,Gloucester,MQFFT,Military Camp,Britannia
+926,16755,51.833333,-2.25,Dressel 20,Gloucester,LSH,Military Camp,Britannia
+927,16805,51.833333,-2.25,Dressel 20,Gloucester,LSSEPT,Military Camp,Britannia
+928,17188,51.833333,-2.25,Dressel 20,Gloucester,CR,Military Camp,Britannia
+948,15752,55.016667,-2.333333,Dressel 20,Housesteads,LFO,Military Camp,Britannia
+949,15935,55.016667,-2.333333,Dressel 20,Housesteads,IIIENNIIVLPALMA,Military Camp,Britannia
+950,16038,55.016667,-2.333333,Dressel 20,Housesteads,FELIC,Military Camp,Britannia
+951,16104,55.016667,-2.333333,Dressel 20,Housesteads,B,Military Camp,Britannia
+952,16193,55.016667,-2.333333,Dressel 20,Housesteads,LIT,Military Camp,Britannia
+953,16267,55.016667,-2.333333,Dressel 20,Housesteads,LIVNIMELISSIP,Military Camp,Britannia
+954,16367,55.016667,-2.333333,Dressel 20,Housesteads,GMMF,Military Camp,Britannia
+955,16541,55.016667,-2.333333,Dressel 20,Housesteads,DOMS,Military Camp,Britannia
+956,16542,55.016667,-2.333333,Dressel 20,Housesteads,DOMS,Military Camp,Britannia
+957,16931,55.016667,-2.333333,Dressel 20,Housesteads,FSCIMNIANO,Military Camp,Britannia
+958,15896,51.007222,-2.678333,Dressel 20,Ilchester,CEFP,Civil Settlement,Britannia
+959,15915,51.007222,-2.678333,Dressel 20,Ilchester,CENISAEN,Civil Settlement,Britannia
+960,16150,51.007222,-2.678333,Dressel 20,Ilchester,QIM,Civil Settlement,Britannia
+961,16460,51.007222,-2.678333,Dressel 20,Ilchester,PNN,Civil Settlement,Britannia
+962,16624,51.007222,-2.678333,Dressel 20,Ilchester,PERANIRENSA,Civil Settlement,Britannia
+963,15712,53.916667,-1.816667,Dressel 20,Ilkley,MCC,Military Camp,Britannia
+964,15723,53.916667,-1.816667,Dressel 20,Ilkley,QCC,Military Camp,Britannia
+965,15850,53.916667,-1.816667,Dressel 20,Ilkley,CAMILISILVESTRI,Military Camp,Britannia
+966,15867,53.916667,-1.816667,Dressel 20,Ilkley,VGLE,Military Camp,Britannia
+967,15897,53.916667,-1.816667,Dressel 20,Ilkley,CEFP,Military Camp,Britannia
+968,16242,53.916667,-1.816667,Dressel 20,Ilkley,LIVNIMELISSI,Military Camp,Britannia
+969,16370,53.916667,-1.816667,Dressel 20,Ilkley,MMR,Military Camp,Britannia
+970,16557,53.916667,-1.816667,Dressel 20,Ilkley,DOMS,Military Camp,Britannia
+971,16854,53.916667,-1.816667,Dressel 20,Ilkley,SAXOFERREO,Military Camp,Britannia
+972,20675,53.916667,-1.816667,Dressel 20,Ilkley,BABPOR,Military Camp,Britannia
+979,15411,52.633333,-1.133333,Dressel 20,Leicester,LAGER,Civil Settlement,Britannia
+980,15552,52.633333,-1.133333,Dressel 20,Leicester,AMETHYST,Civil Settlement,Britannia
+981,15586,52.633333,-1.133333,Dressel 20,Leicester,CANTQ,Civil Settlement,Britannia
+982,15607,52.633333,-1.133333,Dressel 20,Leicester,CANIVET,Civil Settlement,Britannia
+983,15742,52.633333,-1.133333,Dressel 20,Leicester,LCFFC,Civil Settlement,Britannia
+984,15768,52.633333,-1.133333,Dressel 20,Leicester,LCM,Civil Settlement,Britannia
+985,15809,52.633333,-1.133333,Dressel 20,Leicester,MMCSAE,Civil Settlement,Britannia
+986,15839,52.633333,-1.133333,Dressel 20,Leicester,CALPVR,Civil Settlement,Britannia
+987,15887,52.633333,-1.133333,Dressel 20,Leicester,CEC,Civil Settlement,Britannia
+988,15911,52.633333,-1.133333,Dressel 20,Leicester,CENNIHISPSAE,Civil Settlement,Britannia
+989,15937,52.633333,-1.133333,Dressel 20,Leicester,IIIIEN,Civil Settlement,Britannia
+990,15969,52.633333,-1.133333,Dressel 20,Leicester,LFCF,Civil Settlement,Britannia
+991,16073,52.633333,-1.133333,Dressel 20,Leicester,HISPSAENICORONA,Civil Settlement,Britannia
+992,16076,52.633333,-1.133333,Dressel 20,Leicester,HISPANISAEN,Civil Settlement,Britannia
+993,16092,52.633333,-1.133333,Dressel 20,Leicester,QIAFS,Civil Settlement,Britannia
+994,16116,52.633333,-1.133333,Dressel 20,Leicester,IB,Civil Settlement,Britannia
+995,16146,52.633333,-1.133333,Dressel 20,Leicester,M,Civil Settlement,Britannia
+996,16158,52.633333,-1.133333,Dressel 20,Leicester,QIM,Civil Settlement,Britannia
+997,16170,52.633333,-1.133333,Dressel 20,Leicester,LIOPVSNNI,Civil Settlement,Britannia
+998,16178,52.633333,-1.133333,Dressel 20,Leicester,MIRPFOR,Civil Settlement,Britannia
+999,16222,52.633333,-1.133333,Dressel 20,Leicester,PIVLICRISPI,Civil Settlement,Britannia
+1000,16332,52.633333,-1.133333,Dressel 20,Leicester,CLPVDGLPVD,Civil Settlement,Britannia
+1001,16361,52.633333,-1.133333,Dressel 20,Leicester,PORPMH,Civil Settlement,Britannia
+1002,16394,52.633333,-1.133333,Dressel 20,Leicester,CMS,Civil Settlement,Britannia
+1003,16520,52.633333,-1.133333,Dressel 20,Leicester,NERVAE,Civil Settlement,Britannia
+1004,16558,52.633333,-1.133333,Dressel 20,Leicester,DOMS,Civil Settlement,Britannia
+1005,16594,52.633333,-1.133333,Dressel 20,Leicester,MPFF,Civil Settlement,Britannia
+1006,16602,52.633333,-1.133333,Dressel 20,Leicester,LPMS,Civil Settlement,Britannia
+1007,16705,52.633333,-1.133333,Dressel 20,Leicester,ROMANIPALMA,Civil Settlement,Britannia
+1008,16706,52.633333,-1.133333,Dressel 20,Leicester,ROMANIPALMA,Civil Settlement,Britannia
+1009,16724,52.633333,-1.133333,Dressel 20,Leicester,PORPS,Civil Settlement,Britannia
+1010,16756,52.633333,-1.133333,Dressel 20,Leicester,PORQSR,Civil Settlement,Britannia
+1011,16762,52.633333,-1.133333,Dressel 20,Leicester,LSLVPI,Civil Settlement,Britannia
+1012,16811,52.633333,-1.133333,Dressel 20,Leicester,SAENIANES,Civil Settlement,Britannia
+1013,16815,52.633333,-1.133333,Dressel 20,Leicester,SAENICHE,Civil Settlement,Britannia
+1014,17006,52.633333,-1.133333,Dressel 20,Leicester,CTYC,Civil Settlement,Britannia
+1015,17213,52.633333,-1.133333,Dressel 20,Leicester,QVV,Civil Settlement,Britannia
+1016,15387,53.233333,-0.533333,Dressel 20,Lincoln,MACCE,Civil Settlement,Britannia
+1017,15684,53.233333,-0.533333,Dressel 20,Lincoln,ARAXIFM,Civil Settlement,Britannia
+1018,15798,53.233333,-0.533333,Dressel 20,Lincoln,QCR,Civil Settlement,Britannia
+1019,15890,53.233333,-0.533333,Dressel 20,Lincoln,PECV,Civil Settlement,Britannia
+1020,15972,53.233333,-0.533333,Dressel 20,Lincoln,LFCSENT,Civil Settlement,Britannia
+1021,16030,53.233333,-0.533333,Dressel 20,Lincoln,MFS,Civil Settlement,Britannia
+1022,16139,53.233333,-0.533333,Dressel 20,Lincoln,MIM,Civil Settlement,Britannia
+1023,16201,53.233333,-0.533333,Dressel 20,Lincoln,LIT,Civil Settlement,Britannia
+1024,16243,53.233333,-0.533333,Dressel 20,Lincoln,LIVNIMELISSI,Civil Settlement,Britannia
+1025,16269,53.233333,-0.533333,Dressel 20,Lincoln,LIVNIMEISSIP,Civil Settlement,Britannia
+1026,16295,53.233333,-0.533333,Dressel 20,Lincoln,IIIVNIMETMELISSE,Civil Settlement,Britannia
+1027,16368,53.233333,-0.533333,Dressel 20,Lincoln,GMM,Civil Settlement,Britannia
+1028,16407,53.233333,-0.533333,Dressel 20,Lincoln,LMVE,Civil Settlement,Britannia
+1029,16416,53.233333,-0.533333,Dressel 20,Lincoln,PMANILISVPER,Civil Settlement,Britannia
+1030,16436,53.233333,-0.533333,Dressel 20,Lincoln,IIMINIACRETCAN,Civil Settlement,Britannia
+1031,16458,53.233333,-0.533333,Dressel 20,Lincoln,SNI,Civil Settlement,Britannia
+1032,16486,53.233333,-0.533333,Dressel 20,Lincoln,PNN,Civil Settlement,Britannia
+1033,16521,53.233333,-0.533333,Dressel 20,Lincoln,NEVAE,Civil Settlement,Britannia
+1034,16528,53.233333,-0.533333,Dressel 20,Lincoln,COL,Civil Settlement,Britannia
+1035,16562,53.233333,-0.533333,Dressel 20,Lincoln,POROCODV,Civil Settlement,Britannia
+1036,16584,53.233333,-0.533333,Dressel 20,Lincoln,LPAE,Civil Settlement,Britannia
+1037,16625,53.233333,-0.533333,Dressel 20,Lincoln,PONTIC,Civil Settlement,Britannia
+1038,16744,53.233333,-0.533333,Dressel 20,Lincoln,PSAV,Civil Settlement,Britannia
+1039,16773,53.233333,-0.533333,Dressel 20,Lincoln,FIGILNACIRGIMMAVRIAX,Civil Settlement,Britannia
+1040,16822,53.233333,-0.533333,Dressel 20,Lincoln,PSHEDERASAENI,Civil Settlement,Britannia
+1041,16830,53.233333,-0.533333,Dressel 20,Lincoln,QSASER,Civil Settlement,Britannia
+1042,16856,53.233333,-0.533333,Dressel 20,Lincoln,SAXOFERREO,Civil Settlement,Britannia
+1043,16918,53.233333,-0.533333,Dressel 20,Lincoln,FSCIMNIANO,Civil Settlement,Britannia
+1044,17128,53.233333,-0.533333,Dressel 20,Lincoln,IIV,Civil Settlement,Britannia
+1045,17156,53.233333,-0.533333,Dressel 20,Lincoln,Q,Civil Settlement,Britannia
+1046,28045,53.233333,-0.533333,Dressel 20,Lincoln,BROCODV,Civil Settlement,Britannia
+1049,15382,51.514248,-0.093145,Dressel 20,London,AAF,Military Camp,Britannia
+1050,15388,51.514248,-0.093145,Dressel 20,London,LACONFLACONE,Military Camp,Britannia
+1051,15394,51.514248,-0.093145,Dressel 20,London,GAF,Military Camp,Britannia
+1052,15395,51.514248,-0.093145,Dressel 20,London,GAF,Military Camp,Britannia
+1053,15408,51.514248,-0.093145,Dressel 20,London,QAGEMELLI,Military Camp,Britannia
+1054,15410,51.514248,-0.093145,Dressel 20,London,LAGER,Military Camp,Britannia
+1055,15413,51.514248,-0.093145,Dressel 20,London,PORTPAH,Military Camp,Britannia
+1056,15414,51.514248,-0.093145,Dressel 20,London,PORTPAH,Military Camp,Britannia
+1057,15421,51.514248,-0.093145,Dressel 20,London,PAHSCALS,Military Camp,Britannia
+1058,15422,51.514248,-0.093145,Dressel 20,London,PAHSCALS,Military Camp,Britannia
+1059,15423,51.514248,-0.093145,Dressel 20,London,PAHSCALS,Military Camp,Britannia
+1060,15428,51.514248,-0.093145,Dressel 20,London,LAL,Military Camp,Britannia
+1061,15437,51.514248,-0.093145,Dressel 20,London,CAM,Military Camp,Britannia
+1062,15438,51.514248,-0.093145,Dressel 20,London,CAM,Military Camp,Britannia
+1063,15449,51.514248,-0.093145,Dressel 20,London,LAP,Military Camp,Britannia
+1064,15451,51.514248,-0.093145,Dressel 20,London,AR,Military Camp,Britannia
+1065,15453,51.514248,-0.093145,Dressel 20,London,PORLAR,Military Camp,Britannia
+1066,15457,51.514248,-0.093145,Dressel 20,London,PORLAR,Military Camp,Britannia
+1067,15458,51.514248,-0.093145,Dressel 20,London,PORLAR,Military Camp,Britannia
+1068,15460,51.514248,-0.093145,Dressel 20,London,POLAR,Military Camp,Britannia
+1069,15464,51.514248,-0.093145,Dressel 20,London,MAR,Military Camp,Britannia
+1070,15466,51.514248,-0.093145,Dressel 20,London,MAR,Military Camp,Britannia
+1071,15467,51.514248,-0.093145,Dressel 20,London,MAR,Military Camp,Britannia
+1072,15470,51.514248,-0.093145,Dressel 20,London,MAR,Military Camp,Britannia
+1073,15473,51.514248,-0.093145,Dressel 20,London,MRAMRR,Military Camp,Britannia
+1074,15474,51.514248,-0.093145,Dressel 20,London,PAR,Military Camp,Britannia
+1075,15479,51.514248,-0.093145,Dressel 20,London,VAS,Military Camp,Britannia
+1076,15495,51.514248,-0.093145,Dressel 20,London,ACIRGIPALMA,Military Camp,Britannia
+1077,15496,51.514248,-0.093145,Dressel 20,London,ACIRGI,Military Camp,Britannia
+1078,15501,51.514248,-0.093145,Dressel 20,London,ACIRGI,Military Camp,Britannia
+1079,15502,51.514248,-0.093145,Dressel 20,London,ACIRGIF,Military Camp,Britannia
+1080,15503,51.514248,-0.093145,Dressel 20,London,ACAGI,Military Camp,Britannia
+1081,15511,51.514248,-0.093145,Dressel 20,London,ACIRCI,Military Camp,Britannia
+1082,15513,51.514248,-0.093145,Dressel 20,London,QAELIMINICIANI,Military Camp,Britannia
+1083,15514,51.514248,-0.093145,Dressel 20,London,TAELPC,Military Camp,Britannia
+1084,15515,51.514248,-0.093145,Dressel 20,London,MAELALEX,Military Camp,Britannia
+1085,15519,51.514248,-0.093145,Dressel 20,London,MAEALEX,Military Camp,Britannia
+1086,15541,51.514248,-0.093145,Dressel 20,London,AGRICOLAE,Military Camp,Britannia
+1087,15542,51.514248,-0.093145,Dressel 20,London,AGRICOLAE,Military Camp,Britannia
+1088,15547,51.514248,-0.093145,Dressel 20,London,AGRICOLAE,Military Camp,Britannia
+1089,15553,51.514248,-0.093145,Dressel 20,London,CAMPGALOD,Military Camp,Britannia
+1090,15562,51.514248,-0.093145,Dressel 20,London,LCANSECLCAVSEC,Military Camp,Britannia
+1091,15574,51.514248,-0.093145,Dressel 20,London,CJANTQVIJ,Military Camp,Britannia
+1092,15587,51.514248,-0.093145,Dressel 20,London,CANTOCATO,Military Camp,Britannia
+1093,15589,51.514248,-0.093145,Dressel 20,London,CANTONIQVI,Military Camp,Britannia
+1094,15594,51.514248,-0.093145,Dressel 20,London,CANTQ,Military Camp,Britannia
+1095,15595,51.514248,-0.093145,Dressel 20,London,CANT,Military Camp,Britannia
+1096,15596,51.514248,-0.093145,Dressel 20,London,CANTONIQVIE,Military Camp,Britannia
+1097,15603,51.514248,-0.093145,Dressel 20,London,CANTONIQVETI,Military Camp,Britannia
+1098,15608,51.514248,-0.093145,Dressel 20,London,CANTONIQVIET,Military Camp,Britannia
+1099,15609,51.514248,-0.093145,Dressel 20,London,CANTONIQV,Military Camp,Britannia
+1100,15610,51.514248,-0.093145,Dressel 20,London,CANTONIQVIET,Military Camp,Britannia
+1101,15611,51.514248,-0.093145,Dressel 20,London,CANTQVIETI,Military Camp,Britannia
+1102,15612,51.514248,-0.093145,Dressel 20,London,CANTONIQV,Military Camp,Britannia
+1103,15613,51.514248,-0.093145,Dressel 20,London,QANTRVG,Military Camp,Britannia
+1104,15615,51.514248,-0.093145,Dressel 20,London,QANTIRVG,Military Camp,Britannia
+1105,15626,51.514248,-0.093145,Dressel 20,London,CAPF,Military Camp,Britannia
+1106,15629,51.514248,-0.093145,Dressel 20,London,CAPF,Military Camp,Britannia
+1107,15632,51.514248,-0.093145,Dressel 20,London,CAPF,Military Camp,Britannia
+1108,15639,51.514248,-0.093145,Dressel 20,London,PARVA,Military Camp,Britannia
+1109,15642,51.514248,-0.093145,Dressel 20,London,PORTARVA,Military Camp,Britannia
+1110,15646,51.514248,-0.093145,Dressel 20,London,TATILIASIATICI,Military Camp,Britannia
+1111,15647,51.514248,-0.093145,Dressel 20,London,TATILIASIATICI,Military Camp,Britannia
+1112,15654,51.514248,-0.093145,Dressel 20,London,ITICI,Military Camp,Britannia
+1113,15656,51.514248,-0.093145,Dressel 20,London,AATRV,Military Camp,Britannia
+1114,15658,51.514248,-0.093145,Dressel 20,London,LATRV,Military Camp,Britannia
+1115,15659,51.514248,-0.093145,Dressel 20,London,LATRVS,Military Camp,Britannia
+1116,15661,51.514248,-0.093145,Dressel 20,London,LATSV,Military Camp,Britannia
+1117,15670,51.514248,-0.093145,Dressel 20,London,ATITTAE,Military Camp,Britannia
+1118,15689,51.514248,-0.093145,Dressel 20,London,BAETICI,Military Camp,Britannia
+1119,15692,51.514248,-0.093145,Dressel 20,London,BELLIB,Military Camp,Britannia
+1120,15697,51.514248,-0.093145,Dressel 20,London,BELLVCI,Military Camp,Britannia
+1121,15699,51.514248,-0.093145,Dressel 20,London,BFIG,Military Camp,Britannia
+1122,15701,51.514248,-0.093145,Dressel 20,London,C,Military Camp,Britannia
+1123,15705,51.514248,-0.093145,Dressel 20,London,LCANTP,Military Camp,Britannia
+1124,15711,51.514248,-0.093145,Dressel 20,London,FCCVFIA,Military Camp,Britannia
+1125,15714,51.514248,-0.093145,Dressel 20,London,MCC,Military Camp,Britannia
+1126,15717,51.514248,-0.093145,Dressel 20,London,QC,Military Camp,Britannia
+1127,15719,51.514248,-0.093145,Dressel 20,London,QC,Military Camp,Britannia
+1128,15728,51.514248,-0.093145,Dressel 20,London,QC,Military Camp,Britannia
+1129,15729,51.514248,-0.093145,Dressel 20,London,QCC,Military Camp,Britannia
+1130,15730,51.514248,-0.093145,Dressel 20,London,PALMAQCCPALMA,Military Camp,Britannia
+1131,15739,51.514248,-0.093145,Dressel 20,London,QCCLEPALMA,Military Camp,Britannia
+1132,15744,51.514248,-0.093145,Dressel 20,London,LCFPCO,Military Camp,Britannia
+1133,15749,51.514248,-0.093145,Dressel 20,London,LCFPCE,Military Camp,Britannia
+1134,15751,51.514248,-0.093145,Dressel 20,London,LCFP,Military Camp,Britannia
+1135,15753,51.514248,-0.093145,Dressel 20,London,CCII,Military Camp,Britannia
+1136,15764,51.514248,-0.093145,Dressel 20,London,QCL,Military Camp,Britannia
+1137,15781,51.514248,-0.093145,Dressel 20,London,QCR,Military Camp,Britannia
+1138,15792,51.514248,-0.093145,Dressel 20,London,QCR,Military Camp,Britannia
+1139,15795,51.514248,-0.093145,Dressel 20,London,QCRVA,Military Camp,Britannia
+1140,15830,51.514248,-0.093145,Dressel 20,London,LCSOL,Military Camp,Britannia
+1141,15831,51.514248,-0.093145,Dressel 20,London,LCSOL,Military Camp,Britannia
+1142,15833,51.514248,-0.093145,Dressel 20,London,LCSOL,Military Camp,Britannia
+1143,15834,51.514248,-0.093145,Dressel 20,London,LCSOL,Military Camp,Britannia
+1144,15835,51.514248,-0.093145,Dressel 20,London,LCT,Military Camp,Britannia
+1145,15838,51.514248,-0.093145,Dressel 20,London,CALPVRNIB,Military Camp,Britannia
+1146,15841,51.514248,-0.093145,Dressel 20,London,CALPVRNICALPVRN,Military Camp,Britannia
+1147,15843,51.514248,-0.093145,Dressel 20,London,QCALMARSI,Military Camp,Britannia
+1148,15847,51.514248,-0.093145,Dressel 20,London,IICAMILIMELISSI,Military Camp,Britannia
+1149,15852,51.514248,-0.093145,Dressel 20,London,KASTELLANI,Military Camp,Britannia
+1150,15853,51.514248,-0.093145,Dressel 20,London,CASTELANI,Military Camp,Britannia
+1151,15866,51.514248,-0.093145,Dressel 20,London,SCLT,Military Camp,Britannia
+1152,15877,51.514248,-0.093145,Dressel 20,London,QCOCL,Military Camp,Britannia
+1153,15879,51.514248,-0.093145,Dressel 20,London,FCON,Military Camp,Britannia
+1154,15880,51.514248,-0.093145,Dressel 20,London,CCRASSISEMNI,Military Camp,Britannia
+1155,15881,51.514248,-0.093145,Dressel 20,London,CCRASSISEMNI,Military Camp,Britannia
+1156,15904,51.514248,-0.093145,Dressel 20,London,OLMEN,Military Camp,Britannia
+1157,15913,51.514248,-0.093145,Dressel 20,London,CENIHISPSAE,Military Camp,Britannia
+1158,15936,51.514248,-0.093145,Dressel 20,London,ENNIIVL,Military Camp,Britannia
+1159,15939,51.514248,-0.093145,Dressel 20,London,EROTIS,Military Camp,Britannia
+1160,15951,51.514248,-0.093145,Dressel 20,London,CFAV,Military Camp,Britannia
+1161,15952,51.514248,-0.093145,Dressel 20,London,CFAV,Military Camp,Britannia
+1162,15957,51.514248,-0.093145,Dressel 20,London,LFC,Military Camp,Britannia
+1163,15959,51.514248,-0.093145,Dressel 20,London,LFCCOL,Military Camp,Britannia
+1164,15963,51.514248,-0.093145,Dressel 20,London,LFCCVCAT,Military Camp,Britannia
+1165,15965,51.514248,-0.093145,Dressel 20,London,LFCCVFCN,Military Camp,Britannia
+1166,15976,51.514248,-0.093145,Dressel 20,London,LFCRFTCNVFIHEDERA,Military Camp,Britannia
+1167,16009,51.514248,-0.093145,Dressel 20,London,QFG,Military Camp,Britannia
+1168,16011,51.514248,-0.093145,Dressel 20,London,QFVL,Military Camp,Britannia
+1169,16014,51.514248,-0.093145,Dressel 20,London,MFN,Military Camp,Britannia
+1170,16031,51.514248,-0.093145,Dressel 20,London,CFSAII,Military Camp,Britannia
+1171,16032,51.514248,-0.093145,Dressel 20,London,QFV,Military Camp,Britannia
+1172,16034,51.514248,-0.093145,Dressel 20,London,CFVA,Military Camp,Britannia
+1173,16036,51.514248,-0.093145,Dressel 20,London,FAVSTINNIB,Military Camp,Britannia
+1174,16042,51.514248,-0.093145,Dressel 20,London,FIRMISAE,Military Camp,Britannia
+1175,16043,51.514248,-0.093145,Dressel 20,London,MFLAVITITVRI,Military Camp,Britannia
+1176,16046,51.514248,-0.093145,Dressel 20,London,GALLICI,Military Camp,Britannia
+1177,16048,51.514248,-0.093145,Dressel 20,London,PHILO,Military Camp,Britannia
+1178,16053,51.514248,-0.093145,Dressel 20,London,PHILO,Military Camp,Britannia
+1179,16054,51.514248,-0.093145,Dressel 20,London,PHILO,Military Camp,Britannia
+1180,16055,51.514248,-0.093145,Dressel 20,London,PHOEBI,Military Camp,Britannia
+1181,16067,51.514248,-0.093145,Dressel 20,London,HILARI,Military Camp,Britannia
+1182,16074,51.514248,-0.093145,Dressel 20,London,HISPSAENICORONA,Military Camp,Britannia
+1183,16089,51.514248,-0.093145,Dressel 20,London,QIAFS,Military Camp,Britannia
+1184,16097,51.514248,-0.093145,Dressel 20,London,QIAS,Military Camp,Britannia
+1185,16099,51.514248,-0.093145,Dressel 20,London,QIAS,Military Camp,Britannia
+1186,16102,51.514248,-0.093145,Dressel 20,London,GIALB,Military Camp,Britannia
+1187,16130,51.514248,-0.093145,Dressel 20,London,MIM,Military Camp,Britannia
+1188,16132,51.514248,-0.093145,Dressel 20,London,MIM,Military Camp,Britannia
+1189,16133,51.514248,-0.093145,Dressel 20,London,MIM,Military Camp,Britannia
+1190,16134,51.514248,-0.093145,Dressel 20,London,MI,Military Camp,Britannia
+1191,16135,51.514248,-0.093145,Dressel 20,London,MIM,Military Camp,Britannia
+1192,16143,51.514248,-0.093145,Dressel 20,London,MIM,Military Camp,Britannia
+1193,16144,51.514248,-0.093145,Dressel 20,London,MIM,Military Camp,Britannia
+1194,16147,51.514248,-0.093145,Dressel 20,London,MIMOPSI,Military Camp,Britannia
+1195,16160,51.514248,-0.093145,Dressel 20,London,QIMFN,Military Camp,Britannia
+1196,16163,51.514248,-0.093145,Dressel 20,London,QIMOFP,Military Camp,Britannia
+1197,16167,51.514248,-0.093145,Dressel 20,London,QIMFN,Military Camp,Britannia
+1198,16171,51.514248,-0.093145,Dressel 20,London,FIPC,Military Camp,Britannia
+1199,16177,51.514248,-0.093145,Dressel 20,London,CIREXOF,Military Camp,Britannia
+1200,16180,51.514248,-0.093145,Dressel 20,London,PIROPPIROIP,Military Camp,Britannia
+1201,16181,51.514248,-0.093145,Dressel 20,London,PIRP,Military Camp,Britannia
+1202,16182,51.514248,-0.093145,Dressel 20,London,SIR,Military Camp,Britannia
+1203,16184,51.514248,-0.093145,Dressel 20,London,SIREXOFANI,Military Camp,Britannia
+1204,16185,51.514248,-0.093145,Dressel 20,London,AIS,Military Camp,Britannia
+1205,16203,51.514248,-0.093145,Dressel 20,London,LIT,Military Camp,Britannia
+1206,16219,51.514248,-0.093145,Dressel 20,London,CIVII,Military Camp,Britannia
+1207,16220,51.514248,-0.093145,Dressel 20,London,CIVR,Military Camp,Britannia
+1208,16225,51.514248,-0.093145,Dressel 20,London,PIVLICRISPI,Military Camp,Britannia
+1209,16227,51.514248,-0.093145,Dressel 20,London,CIVLISVRI,Military Camp,Britannia
+1210,16228,51.514248,-0.093145,Dressel 20,London,CIVLI,Military Camp,Britannia
+1211,16231,51.514248,-0.093145,Dressel 20,London,IVLTEREN,Military Camp,Britannia
+1212,16244,51.514248,-0.093145,Dressel 20,London,LIVNIMELISSI,Military Camp,Britannia
+1213,16245,51.514248,-0.093145,Dressel 20,London,LIVNIMELISSI,Military Camp,Britannia
+1214,16268,51.514248,-0.093145,Dressel 20,London,LHEDERAIVNIMELISSI,Military Camp,Britannia
+1215,16274,51.514248,-0.093145,Dressel 20,London,LIVNIMELISSP,Military Camp,Britannia
+1216,16287,51.514248,-0.093145,Dressel 20,London,IIIVNIHEDERAMELISSIEMELISSEHEDERA,Military Camp,Britannia
+1217,16289,51.514248,-0.093145,Dressel 20,London,ELISSILISSEHEDERA,Military Camp,Britannia
+1218,16290,51.514248,-0.093145,Dressel 20,London,IIIVNIMELETMELI,Military Camp,Britannia
+1219,16291,51.514248,-0.093145,Dressel 20,London,IIIVNIMELISSIETMELISSEHEDERA,Military Camp,Britannia
+1220,16306,51.514248,-0.093145,Dressel 20,London,MLFIDI,Military Camp,Britannia
+1221,16308,51.514248,-0.093145,Dressel 20,London,ALFO,Military Camp,Britannia
+1222,16314,51.514248,-0.093145,Dressel 20,London,ALFO,Military Camp,Britannia
+1223,16326,51.514248,-0.093145,Dressel 20,London,CLPVHEDERA,Military Camp,Britannia
+1224,16328,51.514248,-0.093145,Dressel 20,London,CLPVHEDERA,Military Camp,Britannia
+1225,16333,51.514248,-0.093145,Dressel 20,London,HLQ,Military Camp,Britannia
+1226,16355,51.514248,-0.093145,Dressel 20,London,VM,Military Camp,Britannia
+1227,16358,51.514248,-0.093145,Dressel 20,London,PMFRPO,Military Camp,Britannia
+1228,16360,51.514248,-0.093145,Dressel 20,London,PORPMH,Military Camp,Britannia
+1229,16373,51.514248,-0.093145,Dressel 20,London,PMR,Military Camp,Britannia
+1230,16374,51.514248,-0.093145,Dressel 20,London,QMR,Military Camp,Britannia
+1231,16387,51.514248,-0.093145,Dressel 20,London,QMR,Military Camp,Britannia
+1232,16391,51.514248,-0.093145,Dressel 20,London,QMR,Military Camp,Britannia
+1233,16392,51.514248,-0.093145,Dressel 20,London,QMR,Military Camp,Britannia
+1234,16400,51.514248,-0.093145,Dressel 20,London,QMS,Military Camp,Britannia
+1235,16401,51.514248,-0.093145,Dressel 20,London,PALMAGMTPALMA,Military Camp,Britannia
+1236,16408,51.514248,-0.093145,Dressel 20,London,LMVE,Military Camp,Britannia
+1237,16412,51.514248,-0.093145,Dressel 20,London,LMVE,Military Camp,Britannia
+1238,16414,51.514248,-0.093145,Dressel 20,London,MANIMV,Military Camp,Britannia
+1239,16418,51.514248,-0.093145,Dressel 20,London,PMANILISVPE,Military Camp,Britannia
+1240,16419,51.514248,-0.093145,Dressel 20,London,PMANILISVPE,Military Camp,Britannia
+1241,16420,51.514248,-0.093145,Dressel 20,London,PMANISV,Military Camp,Britannia
+1242,16421,51.514248,-0.093145,Dressel 20,London,PMANSV,Military Camp,Britannia
+1243,16425,51.514248,-0.093145,Dressel 20,London,CMARSIL,Military Camp,Britannia
+1244,16429,51.514248,-0.093145,Dressel 20,London,MAVRI,Military Camp,Britannia
+1245,16430,51.514248,-0.093145,Dressel 20,London,MVR,Military Camp,Britannia
+1246,16432,51.514248,-0.093145,Dressel 20,London,IIIMINICIOR,Military Camp,Britannia
+1247,16440,51.514248,-0.093145,Dressel 20,London,PMOCVFIGEDO,Military Camp,Britannia
+1248,16456,51.514248,-0.093145,Dressel 20,London,CORONAQNDPRIPALMA,Military Camp,Britannia
+1249,16488,51.514248,-0.093145,Dressel 20,London,N,Military Camp,Britannia
+1250,16489,51.514248,-0.093145,Dressel 20,London,PNN,Military Camp,Britannia
+1251,16490,51.514248,-0.093145,Dressel 20,London,PNN,Military Camp,Britannia
+1252,16491,51.514248,-0.093145,Dressel 20,London,PNN,Military Camp,Britannia
+1253,16496,51.514248,-0.093145,Dressel 20,London,PNNAR,Military Camp,Britannia
+1254,16508,51.514248,-0.093145,Dressel 20,London,SNR,Military Camp,Britannia
+1255,16523,51.514248,-0.093145,Dressel 20,London,NYMPH,Military Camp,Britannia
+1256,16525,51.514248,-0.093145,Dressel 20,London,HOFP,Military Camp,Britannia
+1257,16527,51.514248,-0.093145,Dressel 20,London,FOIAS,Military Camp,Britannia
+1258,16564,51.514248,-0.093145,Dressel 20,London,POROCODV,Military Camp,Britannia
+1259,16565,51.514248,-0.093145,Dressel 20,London,POROCODV,Military Camp,Britannia
+1260,16569,51.514248,-0.093145,Dressel 20,London,POROD,Military Camp,Britannia
+1261,16572,51.514248,-0.093145,Dressel 20,London,PORDV,Military Camp,Britannia
+1262,16579,51.514248,-0.093145,Dressel 20,London,FOP,Military Camp,Britannia
+1263,16580,51.514248,-0.093145,Dressel 20,London,OPTA,Military Camp,Britannia
+1264,16581,51.514248,-0.093145,Dressel 20,London,OPTATI,Military Camp,Britannia
+1265,16583,51.514248,-0.093145,Dressel 20,London,OPTATI,Military Camp,Britannia
+1266,16585,51.514248,-0.093145,Dressel 20,London,PP,Military Camp,Britannia
+1267,16586,51.514248,-0.093145,Dressel 20,London,APCF,Military Camp,Britannia
+1268,16613,51.514248,-0.093145,Dressel 20,London,PORCPR,Military Camp,Britannia
+1269,16616,51.514248,-0.093145,Dressel 20,London,FPS,Military Camp,Britannia
+1270,16619,51.514248,-0.093145,Dressel 20,London,PASSERAR,Military Camp,Britannia
+1271,16620,51.514248,-0.093145,Dressel 20,London,PASSERAR,Military Camp,Britannia
+1272,16628,51.514248,-0.093145,Dressel 20,London,PONTICI,Military Camp,Britannia
+1273,16629,51.514248,-0.093145,Dressel 20,London,PONTICI,Military Camp,Britannia
+1274,16633,51.514248,-0.093145,Dressel 20,London,PORRO,Military Camp,Britannia
+1275,16634,51.514248,-0.093145,Dressel 20,London,PRIM,Military Camp,Britannia
+1276,16639,51.514248,-0.093145,Dressel 20,London,PIQIALP,Military Camp,Britannia
+1277,16647,51.514248,-0.093145,Dressel 20,London,PQFF,Military Camp,Britannia
+1278,16656,51.514248,-0.093145,Dressel 20,London,LHEDERAQHEDERASHEDERA,Military Camp,Britannia
+1279,16667,51.514248,-0.093145,Dressel 20,London,LQS,Military Camp,Britannia
+1280,16682,51.514248,-0.093145,Dressel 20,London,NR,Military Camp,Britannia
+1281,16684,51.514248,-0.093145,Dressel 20,London,GRADOS,Military Camp,Britannia
+1282,16698,51.514248,-0.093145,Dressel 20,London,ROMANI,Military Camp,Britannia
+1283,16708,51.514248,-0.093145,Dressel 20,London,ROMANI,Military Camp,Britannia
+1284,16709,51.514248,-0.093145,Dressel 20,London,ROMA,Military Camp,Britannia
+1285,16713,51.514248,-0.093145,Dressel 20,London,ROMANIPALMA,Military Camp,Britannia
+1286,16715,51.514248,-0.093145,Dressel 20,London,ROMANIPALMA,Military Camp,Britannia
+1287,16719,51.514248,-0.093145,Dressel 20,London,RVFIPO,Military Camp,Britannia
+1288,16721,51.514248,-0.093145,Dressel 20,London,RVFINIATITAE,Military Camp,Britannia
+1289,16734,51.514248,-0.093145,Dressel 20,London,GSA,Military Camp,Britannia
+1290,16735,51.514248,-0.093145,Dressel 20,London,GSAP,Military Camp,Britannia
+1291,16736,51.514248,-0.093145,Dressel 20,London,PSA,Military Camp,Britannia
+1292,16749,51.514248,-0.093145,Dressel 20,London,PSAVI,Military Camp,Britannia
+1293,16764,51.514248,-0.093145,Dressel 20,London,LSLVPI,Military Camp,Britannia
+1294,16777,51.514248,-0.093145,Dressel 20,London,GSP,Military Camp,Britannia
+1295,16787,51.514248,-0.093145,Dressel 20,London,QSP,Military Camp,Britannia
+1296,16789,51.514248,-0.093145,Dressel 20,London,QSP,Military Camp,Britannia
+1297,16790,51.514248,-0.093145,Dressel 20,London,QSP,Military Camp,Britannia
+1298,16793,51.514248,-0.093145,Dressel 20,London,SP,Military Camp,Britannia
+1299,16800,51.514248,-0.093145,Dressel 20,London,RSRIMFRER,Military Camp,Britannia
+1300,16803,51.514248,-0.093145,Dressel 20,London,LSS,Military Camp,Britannia
+1301,16804,51.514248,-0.093145,Dressel 20,London,LSSEX,Military Camp,Britannia
+1302,16809,51.514248,-0.093145,Dressel 20,London,PORPSOPORPSC,Military Camp,Britannia
+1303,16812,51.514248,-0.093145,Dressel 20,London,SAENIANI,Military Camp,Britannia
+1304,16818,51.514248,-0.093145,Dressel 20,London,SAENIANS,Military Camp,Britannia
+1305,16824,51.514248,-0.093145,Dressel 20,London,ASAEN,Military Camp,Britannia
+1306,16825,51.514248,-0.093145,Dressel 20,London,ASAENI,Military Camp,Britannia
+1307,16835,51.514248,-0.093145,Dressel 20,London,SATVRNI,Military Camp,Britannia
+1308,16840,51.514248,-0.093145,Dressel 20,London,SAN,Military Camp,Britannia
+1309,16847,51.514248,-0.093145,Dressel 20,London,SATVRNI,Military Camp,Britannia
+1310,16863,51.514248,-0.093145,Dressel 20,London,EXOFQRF,Military Camp,Britannia
+1311,16867,51.514248,-0.093145,Dressel 20,London,SCALENSIA,Military Camp,Britannia
+1312,16880,51.514248,-0.093145,Dressel 20,London,SCALENSIAACCI,Military Camp,Britannia
+1313,16881,51.514248,-0.093145,Dressel 20,London,SCALENSIAACCI,Military Camp,Britannia
+1314,16890,51.514248,-0.093145,Dressel 20,London,FSCIMNIANO,Military Camp,Britannia
+1315,16935,51.514248,-0.093145,Dressel 20,London,SCOROBRES,Military Camp,Britannia
+1316,16939,51.514248,-0.093145,Dressel 20,London,LSERSENC,Military Camp,Britannia
+1317,16947,51.514248,-0.093145,Dressel 20,London,CSEMPPOLYCL,Military Camp,Britannia
+1318,16948,51.514248,-0.093145,Dressel 20,London,CSEMPOL,Military Camp,Britannia
+1319,16952,51.514248,-0.093145,Dressel 20,London,CSEMPOL,Military Camp,Britannia
+1320,16953,51.514248,-0.093145,Dressel 20,London,CSEMPPOL,Military Camp,Britannia
+1321,16954,51.514248,-0.093145,Dressel 20,London,CSEMPOL,Military Camp,Britannia
+1322,16959,51.514248,-0.093145,Dressel 20,London,CSEMP,Military Camp,Britannia
+1323,16960,51.514248,-0.093145,Dressel 20,London,CSEMPOLICLITI,Military Camp,Britannia
+1324,16961,51.514248,-0.093145,Dressel 20,London,CSEMPPOL,Military Camp,Britannia
+1325,16973,51.514248,-0.093145,Dressel 20,London,POLICLITI,Military Camp,Britannia
+1326,16974,51.514248,-0.093145,Dressel 20,London,POLYCLITI,Military Camp,Britannia
+1327,16981,51.514248,-0.093145,Dressel 20,London,SERVILILVPI,Military Camp,Britannia
+1328,16994,51.514248,-0.093145,Dressel 20,London,CSTERPAVLLINI,Military Camp,Britannia
+1329,16995,51.514248,-0.093145,Dressel 20,London,CSTERPAVLLINI,Military Camp,Britannia
+1330,16997,51.514248,-0.093145,Dressel 20,London,SVAVIS,Military Camp,Britannia
+1331,16999,51.514248,-0.093145,Dressel 20,London,SVRVS,Military Camp,Britannia
+1332,17001,51.514248,-0.093145,Dressel 20,London,STPR,Military Camp,Britannia
+1333,17002,51.514248,-0.093145,Dressel 20,London,STPR,Military Camp,Britannia
+1334,17010,51.514248,-0.093145,Dressel 20,London,THALLI,Military Camp,Britannia
+1335,17015,51.514248,-0.093145,Dressel 20,London,LVA,Military Camp,Britannia
+1336,17036,51.514248,-0.093145,Dressel 20,London,CVV,Military Camp,Britannia
+1337,17043,51.514248,-0.093145,Dressel 20,London,VALERI,Military Camp,Britannia
+1338,17044,51.514248,-0.093145,Dressel 20,London,LVALERROR,Military Camp,Britannia
+1339,17045,51.514248,-0.093145,Dressel 20,London,LVALERTER,Military Camp,Britannia
+1340,17048,51.514248,-0.093145,Dressel 20,London,FORTTVNATIM,Military Camp,Britannia
+1341,17052,51.514248,-0.093145,Dressel 20,London,LVALERITROPHIMI,Military Camp,Britannia
+1342,17053,51.514248,-0.093145,Dressel 20,London,LVALTROPHIMI,Military Camp,Britannia
+1343,17058,51.514248,-0.093145,Dressel 20,London,LVTROPHIMI,Military Camp,Britannia
+1344,17067,51.514248,-0.093145,Dressel 20,London,SAENIANBSVENNR,Military Camp,Britannia
+1345,17068,51.514248,-0.093145,Dressel 20,London,VENVSTI,Military Camp,Britannia
+1346,17071,51.514248,-0.093145,Dressel 20,London,LVIBR,Military Camp,Britannia
+1347,17077,51.514248,-0.093145,Dressel 20,London,VIBIOR,Military Camp,Britannia
+1348,17105,51.514248,-0.093145,Dressel 20,London,VRITILIL,Military Camp,Britannia
+1349,17108,51.514248,-0.093145,Dressel 20,London,AMPPLPS,Military Camp,Britannia
+1350,17111,51.514248,-0.093145,Dressel 20,London,C,Military Camp,Britannia
+1351,17112,51.514248,-0.093145,Dressel 20,London,C,Military Camp,Britannia
+1352,17121,51.514248,-0.093145,Dressel 20,London,DFIA,Military Camp,Britannia
+1353,17123,51.514248,-0.093145,Dressel 20,London,E,Military Camp,Britannia
+1354,17127,51.514248,-0.093145,Dressel 20,London,IHNA,Military Camp,Britannia
+1355,17144,51.514248,-0.093145,Dressel 20,London,PEP,Military Camp,Britannia
+1356,17150,51.514248,-0.093145,Dressel 20,London,PVIII,Military Camp,Britannia
+1357,17160,51.514248,-0.093145,Dressel 20,London,S,Military Camp,Britannia
+1358,17161,51.514248,-0.093145,Dressel 20,London,SA,Military Camp,Britannia
+1359,17163,51.514248,-0.093145,Dressel 20,London,SIALI,Military Camp,Britannia
+1360,17164,51.514248,-0.093145,Dressel 20,London,SIN,Military Camp,Britannia
+1361,17168,51.514248,-0.093145,Dressel 20,London,VFV,Military Camp,Britannia
+1362,20496,51.514248,-0.093145,Dressel 20,London,CIREXOFAVSCIREXOFANS,Military Camp,Britannia
+1363,20655,51.514248,-0.093145,Dressel 20,London,LASTELLAMI,Military Camp,Britannia
+1364,20704,51.514248,-0.093145,Dressel 20,London,QNDPRI,Military Camp,Britannia
+1365,20705,51.514248,-0.093145,Dressel 20,London,QSP,Military Camp,Britannia
+1366,28278,51.514248,-0.093145,Dressel 20,London,QNDPRI,Military Camp,Britannia
+1367,28313,51.514248,-0.093145,Dressel 20,London,PMANISVP,Military Camp,Britannia
+1368,33431,51.514248,-0.093145,Dressel 20,London,TAASTAC,Military Camp,Britannia
+1369,33434,51.514248,-0.093145,Dressel 20,London,TESTULLALOSANITMS,Military Camp,Britannia
+1370,15389,51.662222,-4.064722,Dressel 20,Loughor,GAF,Military Camp,Britannia
+1371,15396,51.662222,-4.064722,Dressel 20,Loughor,GAF,Military Camp,Britannia
+1372,15554,51.662222,-4.064722,Dressel 20,Loughor,CANNIRVFINI,Military Camp,Britannia
+1373,15600,51.662222,-4.064722,Dressel 20,Loughor,CANTOQVIE,Military Camp,Britannia
+1374,16343,51.662222,-4.064722,Dressel 20,Loughor,LSPECVLAEFCPM,Military Camp,Britannia
+1389,15625,54.988056,-1.619444,Dressel 20,Newcastle upon Tyne,CAPF,Military Camp,Britannia
+1390,15868,54.988056,-1.619444,Dressel 20,Newcastle upon Tyne,PCLODIICELI,Military Camp,Britannia
+1391,16115,54.988056,-1.619444,Dressel 20,Newcastle upon Tyne,CIPALMAB,Military Camp,Britannia
+1392,16218,54.988056,-1.619444,Dressel 20,Newcastle upon Tyne,QIAFS,Military Camp,Britannia
+1393,16235,54.988056,-1.619444,Dressel 20,Newcastle upon Tyne,FSCIMNIANO,Military Camp,Britannia
+1394,16235,54.988056,-1.619444,Dressel 20,Newcastle upon Tyne,LIVNIMELISSI,Military Camp,Britannia
+1395,16256,54.988056,-1.619444,Dressel 20,Newcastle upon Tyne,LIVNIMELISSI,Military Camp,Britannia
+1396,16258,54.988056,-1.619444,Dressel 20,Newcastle upon Tyne,FSCIMNIANO,Military Camp,Britannia
+1397,16258,54.988056,-1.619444,Dressel 20,Newcastle upon Tyne,LIVNIMELISSIP,Military Camp,Britannia
+1398,16352,54.988056,-1.619444,Dressel 20,Newcastle upon Tyne,QMCALIAIDIS,Military Camp,Britannia
+1399,16857,54.988056,-1.619444,Dressel 20,Newcastle upon Tyne,SAXOFERREO,Military Camp,Britannia
+1400,16883,54.988056,-1.619444,Dressel 20,Newcastle upon Tyne,FSCIMNIANO,Military Camp,Britannia
+1401,16884,54.988056,-1.619444,Dressel 20,Newcastle upon Tyne,FSCIMNIANO,Military Camp,Britannia
+1402,16917,54.988056,-1.619444,Dressel 20,Newcastle upon Tyne,FSCIMNIANO,Military Camp,Britannia
+1406,15570,53.066667,-1.216667,Dressel 20,Newstead,CANTONQ,Military Camp,Britannia
+1407,15755,53.066667,-1.216667,Dressel 20,Newstead,MCFRI,Military Camp,Britannia
+1408,15756,53.066667,-1.216667,Dressel 20,Newstead,PCFCLBE,Military Camp,Britannia
+1409,15774,53.066667,-1.216667,Dressel 20,Newstead,FCMA,Military Camp,Britannia
+1410,15820,53.066667,-1.216667,Dressel 20,Newstead,MMCSVR,Military Camp,Britannia
+1411,16125,53.066667,-1.216667,Dressel 20,Newstead,MIM,Military Camp,Britannia
+1412,16174,53.066667,-1.216667,Dressel 20,Newstead,LIQ,Military Camp,Britannia
+1413,16312,53.066667,-1.216667,Dressel 20,Newstead,ALFO,Military Camp,Britannia
+1414,16422,53.066667,-1.216667,Dressel 20,Newstead,CMARISILVANI,Military Camp,Britannia
+1415,16426,53.066667,-1.216667,Dressel 20,Newstead,FMA,Military Camp,Britannia
+1416,16441,53.066667,-1.216667,Dressel 20,Newstead,MON,Military Camp,Britannia
+1417,16538,53.066667,-1.216667,Dressel 20,Newstead,DOMS,Military Camp,Britannia
+1418,16561,53.066667,-1.216667,Dressel 20,Newstead,BOPI,Military Camp,Britannia
+1419,16631,53.066667,-1.216667,Dressel 20,Newstead,POR,Military Camp,Britannia
+1420,16668,53.066667,-1.216667,Dressel 20,Newstead,LQS,Military Camp,Britannia
+1421,16801,53.066667,-1.216667,Dressel 20,Newstead,FSS,Military Camp,Britannia
+1422,16802,53.066667,-1.216667,Dressel 20,Newstead,PORGSS,Military Camp,Britannia
+1423,16982,53.066667,-1.216667,Dressel 20,Newstead,SERB,Military Camp,Britannia
+1424,17049,53.066667,-1.216667,Dressel 20,Newstead,LVALERTER,Military Camp,Britannia
+1425,17142,53.066667,-1.216667,Dressel 20,Newstead,PA,Military Camp,Britannia
+1428,15819,55.916667,-4.45,Dressel 20,Old Kilpatrick,MMCSVR,Military Camp,Britannia
+1429,16449,55.916667,-4.45,Dressel 20,Old Kilpatrick,GNAEC,Military Camp,Britannia
+1430,16453,55.916667,-4.45,Dressel 20,Old Kilpatrick,GNA,Military Camp,Britannia
+1431,16522,55.916667,-4.45,Dressel 20,Old Kilpatrick,NIGEFVAR,Military Camp,Britannia
+1432,16779,55.916667,-4.45,Dressel 20,Old Kilpatrick,LSPBOER,Military Camp,Britannia
+1444,15446,53.8,-2.533333,Dressel 20,Ribchester,TANMAT,Military Camp,Britannia
+1445,15462,53.8,-2.533333,Dressel 20,Ribchester,POLAR,Military Camp,Britannia
+1446,15481,53.8,-2.533333,Dressel 20,Ribchester,GAVEL,Military Camp,Britannia
+1447,15483,53.8,-2.533333,Dressel 20,Ribchester,ACIRGIF,Military Camp,Britannia
+1448,15545,53.8,-2.533333,Dressel 20,Ribchester,AGRICOLAE,Military Camp,Britannia
+1449,15549,53.8,-2.533333,Dressel 20,Ribchester,AGRICOLAE,Military Camp,Britannia
+1450,15588,53.8,-2.533333,Dressel 20,Ribchester,CAN,Military Camp,Britannia
+1451,16093,53.8,-2.533333,Dressel 20,Ribchester,QIAFS,Military Camp,Britannia
+1452,16098,53.8,-2.533333,Dressel 20,Ribchester,APFS,Military Camp,Britannia
+1453,16166,53.8,-2.533333,Dressel 20,Ribchester,QIMFN,Military Camp,Britannia
+1454,16187,53.8,-2.533333,Dressel 20,Ribchester,CIS,Military Camp,Britannia
+1455,16188,53.8,-2.533333,Dressel 20,Ribchester,CIS,Military Camp,Britannia
+1456,16293,53.8,-2.533333,Dressel 20,Ribchester,MELISMELISSE,Military Camp,Britannia
+1457,16322,53.8,-2.533333,Dressel 20,Ribchester,SLP,Military Camp,Britannia
+1458,17013,53.8,-2.533333,Dressel 20,Ribchester,CVA,Military Camp,Britannia
+1459,17019,53.8,-2.533333,Dressel 20,Ribchester,LVC,Military Camp,Britannia
+1460,17107,53.8,-2.533333,Dressel 20,Ribchester,AQ,Military Camp,Britannia
+1461,17117,53.8,-2.533333,Dressel 20,Ribchester,CA,Military Camp,Britannia
+1462,17204,53.8,-2.533333,Dressel 20,Ribchester,M,Military Camp,Britannia
+1463,15384,51.283333,1.333333,Dressel 20,Richborough,SA,Military Camp,Britannia
+1464,15403,51.283333,1.333333,Dressel 20,Richborough,LAF,Military Camp,Britannia
+1465,15418,51.283333,1.333333,Dressel 20,Richborough,POPAH,Military Camp,Britannia
+1466,15427,51.283333,1.333333,Dressel 20,Richborough,LAL,Military Camp,Britannia
+1467,15454,51.283333,1.333333,Dressel 20,Richborough,PORLAR,Military Camp,Britannia
+1468,15461,51.283333,1.333333,Dressel 20,Richborough,POLAR,Military Camp,Britannia
+1469,15487,51.283333,1.333333,Dressel 20,Richborough,ACIRGI,Military Camp,Britannia
+1470,15497,51.283333,1.333333,Dressel 20,Richborough,ACIRGI,Military Camp,Britannia
+1471,15498,51.283333,1.333333,Dressel 20,Richborough,ACIRGI,Military Camp,Britannia
+1472,15518,51.283333,1.333333,Dressel 20,Richborough,AEALEX,Military Camp,Britannia
+1473,15524,51.283333,1.333333,Dressel 20,Richborough,MAEME,Military Camp,Britannia
+1474,15525,51.283333,1.333333,Dressel 20,Richborough,MAEME,Military Camp,Britannia
+1475,15571,51.283333,1.333333,Dressel 20,Richborough,CANTONIQVIETI,Military Camp,Britannia
+1476,15575,51.283333,1.333333,Dressel 20,Richborough,QVETI,Military Camp,Britannia
+1477,15576,51.283333,1.333333,Dressel 20,Richborough,GANTON,Military Camp,Britannia
+1478,15577,51.283333,1.333333,Dressel 20,Richborough,CANTQ,Military Camp,Britannia
+1479,15578,51.283333,1.333333,Dressel 20,Richborough,CANTQVIETI,Military Camp,Britannia
+1480,15579,51.283333,1.333333,Dressel 20,Richborough,CANTQVIETI,Military Camp,Britannia
+1481,15580,51.283333,1.333333,Dressel 20,Richborough,CANTQVIET,Military Camp,Britannia
+1482,15590,51.283333,1.333333,Dressel 20,Richborough,CANTONIQVIET,Military Camp,Britannia
+1483,15614,51.283333,1.333333,Dressel 20,Richborough,QANTRVG,Military Camp,Britannia
+1484,15617,51.283333,1.333333,Dressel 20,Richborough,QANTR,Military Camp,Britannia
+1485,15650,51.283333,1.333333,Dressel 20,Richborough,TCI,Military Camp,Britannia
+1486,15652,51.283333,1.333333,Dressel 20,Richborough,TAAPA,Military Camp,Britannia
+1487,15653,51.283333,1.333333,Dressel 20,Richborough,TAA,Military Camp,Britannia
+1488,15663,51.283333,1.333333,Dressel 20,Richborough,PATVIC,Military Camp,Britannia
+1489,15666,51.283333,1.333333,Dressel 20,Richborough,DATSCOL,Military Camp,Britannia
+1490,15690,51.283333,1.333333,Dressel 20,Richborough,BAETICRVFINI,Military Camp,Britannia
+1491,15703,51.283333,1.333333,Dressel 20,Richborough,LCAE,Military Camp,Britannia
+1492,15743,51.283333,1.333333,Dressel 20,Richborough,LCFPCO,Military Camp,Britannia
+1493,15754,51.283333,1.333333,Dressel 20,Richborough,LCFPR,Military Camp,Britannia
+1494,15788,51.283333,1.333333,Dressel 20,Richborough,QCR,Military Camp,Britannia
+1495,15789,51.283333,1.333333,Dressel 20,Richborough,QCR,Military Camp,Britannia
+1496,15791,51.283333,1.333333,Dressel 20,Richborough,QCR,Military Camp,Britannia
+1497,15800,51.283333,1.333333,Dressel 20,Richborough,QCR,Military Camp,Britannia
+1498,15806,51.283333,1.333333,Dressel 20,Richborough,MMCS,Military Camp,Britannia
+1499,15882,51.283333,1.333333,Dressel 20,Richborough,CRATI,Military Camp,Britannia
+1500,15924,51.283333,1.333333,Dressel 20,Richborough,IIIENNIIVL,Military Camp,Britannia
+1501,15929,51.283333,1.333333,Dressel 20,Richborough,ENNIIVLCORONA,Military Camp,Britannia
+1502,15934,51.283333,1.333333,Dressel 20,Richborough,ENNIIVLCORONA,Military Camp,Britannia
+1503,15941,51.283333,1.333333,Dressel 20,Richborough,EROTIS,Military Camp,Britannia
+1504,15956,51.283333,1.333333,Dressel 20,Richborough,LFC,Military Camp,Britannia
+1505,15993,51.283333,1.333333,Dressel 20,Richborough,SFE,Military Camp,Britannia
+1506,16008,51.283333,1.333333,Dressel 20,Richborough,QFN,Military Camp,Britannia
+1507,16012,51.283333,1.333333,Dressel 20,Richborough,MFM,Military Camp,Britannia
+1508,16021,51.283333,1.333333,Dressel 20,Richborough,LFS,Military Camp,Britannia
+1509,16041,51.283333,1.333333,Dressel 20,Richborough,IRM,Military Camp,Britannia
+1510,16056,51.283333,1.333333,Dressel 20,Richborough,LHRR,Military Camp,Britannia
+1511,16064,51.283333,1.333333,Dressel 20,Richborough,HERMESF,Military Camp,Britannia
+1512,16084,51.283333,1.333333,Dressel 20,Richborough,QIA,Military Camp,Britannia
+1513,16086,51.283333,1.333333,Dressel 20,Richborough,QIPS,Military Camp,Britannia
+1514,16095,51.283333,1.333333,Dressel 20,Richborough,QI,Military Camp,Britannia
+1515,16105,51.283333,1.333333,Dressel 20,Richborough,QIAFS,Military Camp,Britannia
+1516,16162,51.283333,1.333333,Dressel 20,Richborough,QIMFN,Military Camp,Britannia
+1517,16172,51.283333,1.333333,Dressel 20,Richborough,FPC,Military Camp,Britannia
+1518,16204,51.283333,1.333333,Dressel 20,Richborough,LIT,Military Camp,Britannia
+1519,16211,51.283333,1.333333,Dressel 20,Richborough,LIT,Military Camp,Britannia
+1520,16216,51.283333,1.333333,Dressel 20,Richborough,L,Military Camp,Britannia
+1521,16296,51.283333,1.333333,Dressel 20,Richborough,IVNILITME,Military Camp,Britannia
+1522,16330,51.283333,1.333333,Dressel 20,Richborough,GIPVDEGLPVDE,Military Camp,Britannia
+1523,16331,51.283333,1.333333,Dressel 20,Richborough,CLPVDE,Military Camp,Britannia
+1524,16335,51.283333,1.333333,Dressel 20,Richborough,HLQC,Military Camp,Britannia
+1525,16359,51.283333,1.333333,Dressel 20,Richborough,PM,Military Camp,Britannia
+1526,16389,51.283333,1.333333,Dressel 20,Richborough,QMR,Military Camp,Britannia
+1527,16390,51.283333,1.333333,Dressel 20,Richborough,QMR,Military Camp,Britannia
+1528,16417,51.283333,1.333333,Dressel 20,Richborough,PMVP,Military Camp,Britannia
+1529,16447,51.283333,1.333333,Dressel 20,Richborough,GNAC,Military Camp,Britannia
+1530,16454,51.283333,1.333333,Dressel 20,Richborough,MNC,Military Camp,Britannia
+1531,16459,51.283333,1.333333,Dressel 20,Richborough,VN,Military Camp,Britannia
+1532,16483,51.283333,1.333333,Dressel 20,Richborough,PNN,Military Camp,Britannia
+1533,16487,51.283333,1.333333,Dressel 20,Richborough,PNN,Military Camp,Britannia
+1534,16524,51.283333,1.333333,Dressel 20,Richborough,SOALVEN,Military Camp,Britannia
+1535,16568,51.283333,1.333333,Dressel 20,Richborough,BROCOD,Military Camp,Britannia
+1536,16574,51.283333,1.333333,Dressel 20,Richborough,POROHOD,Military Camp,Britannia
+1537,16582,51.283333,1.333333,Dressel 20,Richborough,TATI,Military Camp,Britannia
+1538,16596,51.283333,1.333333,Dressel 20,Richborough,APH,Military Camp,Britannia
+1539,16601,51.283333,1.333333,Dressel 20,Richborough,MPM,Military Camp,Britannia
+1540,16605,51.283333,1.333333,Dressel 20,Richborough,LPMS,Military Camp,Britannia
+1541,16614,51.283333,1.333333,Dressel 20,Richborough,PORCPR,Military Camp,Britannia
+1542,16669,51.283333,1.333333,Dressel 20,Richborough,LQS,Military Camp,Britannia
+1543,16670,51.283333,1.333333,Dressel 20,Richborough,LQS,Military Camp,Britannia
+1544,16681,51.283333,1.333333,Dressel 20,Richborough,QVINT,Military Camp,Britannia
+1545,16725,51.283333,1.333333,Dressel 20,Richborough,PORPS,Military Camp,Britannia
+1546,16730,51.283333,1.333333,Dressel 20,Richborough,SA,Military Camp,Britannia
+1547,16738,51.283333,1.333333,Dressel 20,Richborough,PSA,Military Camp,Britannia
+1548,16742,51.283333,1.333333,Dressel 20,Richborough,PSAV,Military Camp,Britannia
+1549,16747,51.283333,1.333333,Dressel 20,Richborough,PSAVI,Military Camp,Britannia
+1550,16760,51.283333,1.333333,Dressel 20,Richborough,LSLVPI,Military Camp,Britannia
+1551,16765,51.283333,1.333333,Dressel 20,Richborough,LSERLVPI,Military Camp,Britannia
+1552,16771,51.283333,1.333333,Dressel 20,Richborough,MSMACIRGI,Military Camp,Britannia
+1553,16784,51.283333,1.333333,Dressel 20,Richborough,MP,Military Camp,Britannia
+1554,16788,51.283333,1.333333,Dressel 20,Richborough,QSP,Military Camp,Britannia
+1555,16810,51.283333,1.333333,Dressel 20,Richborough,SAENIANES,Military Camp,Britannia
+1556,16820,51.283333,1.333333,Dressel 20,Richborough,SAN,Military Camp,Britannia
+1557,16821,51.283333,1.333333,Dressel 20,Richborough,PRSAENI,Military Camp,Britannia
+1558,16838,51.283333,1.333333,Dressel 20,Richborough,SATVRNINI,Military Camp,Britannia
+1559,16839,51.283333,1.333333,Dressel 20,Richborough,SATVRNINI,Military Camp,Britannia
+1560,16869,51.283333,1.333333,Dressel 20,Richborough,SCALENSIA,Military Camp,Britannia
+1561,16873,51.283333,1.333333,Dressel 20,Richborough,SCAL,Military Camp,Britannia
+1562,16937,51.283333,1.333333,Dressel 20,Richborough,QSESA,Military Camp,Britannia
+1563,16949,51.283333,1.333333,Dressel 20,Richborough,CSEMPOL,Military Camp,Britannia
+1564,16976,51.283333,1.333333,Dressel 20,Richborough,POLICLITI,Military Camp,Britannia
+1565,16983,51.283333,1.333333,Dressel 20,Richborough,SERROM,Military Camp,Britannia
+1566,16984,51.283333,1.333333,Dressel 20,Richborough,LSERVFI,Military Camp,Britannia
+1567,17022,51.283333,1.333333,Dressel 20,Richborough,PVC,Military Camp,Britannia
+1568,17028,51.283333,1.333333,Dressel 20,Richborough,PVI,Military Camp,Britannia
+1569,17034,51.283333,1.333333,Dressel 20,Richborough,MVRVC,Military Camp,Britannia
+1570,17037,51.283333,1.333333,Dressel 20,Richborough,CVVA,Military Camp,Britannia
+1571,17103,51.283333,1.333333,Dressel 20,Richborough,VRITTIPVS,Military Camp,Britannia
+1572,17122,51.283333,1.333333,Dressel 20,Richborough,DI,Military Camp,Britannia
+1573,17136,51.283333,1.333333,Dressel 20,Richborough,M,Military Camp,Britannia
+1574,17138,51.283333,1.333333,Dressel 20,Richborough,MAI,Military Camp,Britannia
+1575,17148,51.283333,1.333333,Dressel 20,Richborough,PS,Military Camp,Britannia
+1576,17167,51.283333,1.333333,Dressel 20,Richborough,TMCOR,Military Camp,Britannia
+1577,17185,51.283333,1.333333,Dressel 20,Richborough,CLR,Military Camp,Britannia
+1578,17193,51.283333,1.333333,Dressel 20,Richborough,IA,Military Camp,Britannia
+1579,17194,51.283333,1.333333,Dressel 20,Richborough,I,Military Camp,Britannia
+1580,17198,51.283333,1.333333,Dressel 20,Richborough,LID,Military Camp,Britannia
+1581,17199,51.283333,1.333333,Dressel 20,Richborough,LAR,Military Camp,Britannia
+1582,17209,51.283333,1.333333,Dressel 20,Richborough,OIA,Military Camp,Britannia
+1583,17211,51.283333,1.333333,Dressel 20,Richborough,PC,Military Camp,Britannia
+1584,17221,51.283333,1.333333,Dressel 20,Richborough,VRO,Military Camp,Britannia
+1585,20488,51.283333,1.333333,Dressel 20,Richborough,CAQVIE,Military Camp,Britannia
+1586,20504,51.283333,1.333333,Dressel 20,Richborough,OFGRAR,Military Camp,Britannia
+1587,20607,51.283333,1.333333,Dressel 20,Richborough,MSP,Military Camp,Britannia
+1588,20689,51.283333,1.333333,Dressel 20,Richborough,QCH,Military Camp,Britannia
+1589,20697,51.283333,1.333333,Dressel 20,Richborough,QIADFS,Military Camp,Britannia
+1590,25426,51.283333,1.333333,Dressel 20,Richborough,LPAFIRMA,Military Camp,Britannia
+1591,25434,51.283333,1.333333,Dressel 20,Richborough,SFE,Military Camp,Britannia
+1592,28050,51.283333,1.333333,Dressel 20,Richborough,BROCHOD,Military Camp,Britannia
+1606,15480,51.35,-1.066667,Dressel 20,Silchester,GAVEL,Civil Settlement,Britannia
+1607,15583,51.35,-1.066667,Dressel 20,Silchester,CANTQ,Civil Settlement,Britannia
+1608,15693,51.35,-1.066667,Dressel 20,Silchester,BELLICIANAPAGALENI,Civil Settlement,Britannia
+1609,15738,51.35,-1.066667,Dressel 20,Silchester,QCCLEQCCL,Civil Settlement,Britannia
+1610,15741,51.35,-1.066667,Dressel 20,Silchester,FGFIVSFM,Civil Settlement,Britannia
+1611,15747,51.35,-1.066667,Dressel 20,Silchester,LCFPC,Civil Settlement,Britannia
+1612,15769,51.35,-1.066667,Dressel 20,Silchester,LCM,Civil Settlement,Britannia
+1613,15770,51.35,-1.066667,Dressel 20,Silchester,LCM,Civil Settlement,Britannia
+1614,15828,51.35,-1.066667,Dressel 20,Silchester,MMCMF,Civil Settlement,Britannia
+1615,15893,51.35,-1.066667,Dressel 20,Silchester,DEF,Civil Settlement,Britannia
+1616,15898,51.35,-1.066667,Dressel 20,Silchester,CEFP,Civil Settlement,Britannia
+1617,15938,51.35,-1.066667,Dressel 20,Silchester,IIENNIIVL,Civil Settlement,Britannia
+1618,15949,51.35,-1.066667,Dressel 20,Silchester,TFAMV,Civil Settlement,Britannia
+1619,15994,51.35,-1.066667,Dressel 20,Silchester,SFE,Civil Settlement,Britannia
+1620,16058,51.35,-1.066667,Dressel 20,Silchester,PQHEHE,Civil Settlement,Britannia
+1621,16060,51.35,-1.066667,Dressel 20,Silchester,PQHEF,Civil Settlement,Britannia
+1622,16205,51.35,-1.066667,Dressel 20,Silchester,LIT,Civil Settlement,Britannia
+1623,16206,51.35,-1.066667,Dressel 20,Silchester,LIT,Civil Settlement,Britannia
+1624,16236,51.35,-1.066667,Dressel 20,Silchester,LIVNIMELISSI,Civil Settlement,Britannia
+1625,16270,51.35,-1.066667,Dressel 20,Silchester,LIVNIMELIS,Civil Settlement,Britannia
+1626,16271,51.35,-1.066667,Dressel 20,Silchester,LIVNIMELISSIP,Civil Settlement,Britannia
+1627,16317,51.35,-1.066667,Dressel 20,Silchester,AELFO,Civil Settlement,Britannia
+1628,16461,51.35,-1.066667,Dressel 20,Silchester,PNN,Civil Settlement,Britannia
+1629,16510,51.35,-1.066667,Dressel 20,Silchester,SNR,Civil Settlement,Britannia
+1630,16573,51.35,-1.066667,Dressel 20,Silchester,ODV,Civil Settlement,Britannia
+1631,16644,51.35,-1.066667,Dressel 20,Silchester,MQFFT,Civil Settlement,Britannia
+1632,16671,51.35,-1.066667,Dressel 20,Silchester,LQS,Civil Settlement,Britannia
+1633,16672,51.35,-1.066667,Dressel 20,Silchester,LQS,Civil Settlement,Britannia
+1634,16673,51.35,-1.066667,Dressel 20,Silchester,LQS,Civil Settlement,Britannia
+1635,16678,51.35,-1.066667,Dressel 20,Silchester,QVINTANI,Civil Settlement,Britannia
+1636,16746,51.35,-1.066667,Dressel 20,Silchester,PSAVITI,Civil Settlement,Britannia
+1637,16807,51.35,-1.066667,Dressel 20,Silchester,LSSEPT,Civil Settlement,Britannia
+1638,16911,51.35,-1.066667,Dressel 20,Silchester,FSCIMNIANI,Civil Settlement,Britannia
+1639,16913,51.35,-1.066667,Dressel 20,Silchester,FSCIMNIANO,Civil Settlement,Britannia
+1640,16932,51.35,-1.066667,Dressel 20,Silchester,FSCIMNIANO,Civil Settlement,Britannia
+1641,16991,51.35,-1.066667,Dressel 20,Silchester,SILVESTRI,Civil Settlement,Britannia
+1642,17063,51.35,-1.066667,Dressel 20,Silchester,LVALV,Civil Settlement,Britannia
+1643,17064,51.35,-1.066667,Dressel 20,Silchester,LVALVIT,Civil Settlement,Britannia
+1644,17074,51.35,-1.066667,Dressel 20,Silchester,ARNA,Civil Settlement,Britannia
+1645,17140,51.35,-1.066667,Dressel 20,Silchester,MS,Civil Settlement,Britannia
+1646,20458,51.35,-1.066667,Dressel 20,Silchester,ATTENIAECYTONIDIS,Civil Settlement,Britannia
+1647,20503,51.35,-1.066667,Dressel 20,Silchester,COLOBRARIA,Civil Settlement,Britannia
+1648,20590,51.35,-1.066667,Dressel 20,Silchester,MFTHRE,Civil Settlement,Britannia
+1655,15700,54.987778,-1.421389,Dressel 20,South Shields,BVR,Military Camp,Britannia
+1656,15771,54.987778,-1.421389,Dressel 20,South Shields,LCM,Military Camp,Britannia
+1657,15874,54.987778,-1.421389,Dressel 20,South Shields,PCLODIICELI,Military Camp,Britannia
+1658,15878,54.987778,-1.421389,Dressel 20,South Shields,COLOBRARIA,Military Camp,Britannia
+1659,16113,54.987778,-1.421389,Dressel 20,South Shields,CIPALMAB,Military Camp,Britannia
+1660,16255,54.987778,-1.421389,Dressel 20,South Shields,LIVNIMELISSIP,Military Camp,Britannia
+1661,16371,54.987778,-1.421389,Dressel 20,South Shields,MMR,Military Camp,Britannia
+1662,16457,54.987778,-1.421389,Dressel 20,South Shields,PNI,Military Camp,Britannia
+1663,16609,54.987778,-1.421389,Dressel 20,South Shields,QPPHRYXI,Military Camp,Britannia
+1664,17026,54.987778,-1.421389,Dressel 20,South Shields,CVF,Military Camp,Britannia
+1665,17124,54.987778,-1.421389,Dressel 20,South Shields,FC,Military Camp,Britannia
+1666,17169,54.987778,-1.421389,Dressel 20,South Shields,A,Military Camp,Britannia
+1667,15471,51.5,-0.083333,Dressel 20,Southwark,MAR,Civil Settlement,Britannia
+1668,15643,51.5,-0.083333,Dressel 20,Southwark,ARVASALS,Civil Settlement,Britannia
+1669,15686,51.5,-0.083333,Dressel 20,Southwark,ARAXIF,Civil Settlement,Britannia
+1670,15783,51.5,-0.083333,Dressel 20,Southwark,QCR,Civil Settlement,Britannia
+1671,15837,51.5,-0.083333,Dressel 20,Southwark,CALPVRNIAB,Civil Settlement,Britannia
+1672,15854,51.5,-0.083333,Dressel 20,Southwark,CELSI,Civil Settlement,Britannia
+1673,16059,51.5,-0.083333,Dressel 20,Southwark,PQHEHE,Civil Settlement,Britannia
+1674,16142,51.5,-0.083333,Dressel 20,Southwark,MIM,Civil Settlement,Britannia
+1675,16424,51.5,-0.083333,Dressel 20,Southwark,CMARSIL,Civil Settlement,Britannia
+1676,16944,51.5,-0.083333,Dressel 20,Southwark,CSEMPPOLYCL,Civil Settlement,Britannia
+1677,17016,51.5,-0.083333,Dressel 20,Southwark,LVA,Civil Settlement,Britannia
+1678,17062,51.5,-0.083333,Dressel 20,Southwark,LVALEVIT,Civil Settlement,Britannia
+1679,17177,51.5,-0.083333,Dressel 20,Southwark,ANO,Civil Settlement,Britannia
+1681,15436,51.833333,-0.25,Dressel 20,St Albans,SALSE,Civil Settlement,Britannia
+1682,15443,51.833333,-0.25,Dressel 20,St Albans,SAMIS,Civil Settlement,Britannia
+1683,15619,51.833333,-0.25,Dressel 20,St Albans,LANTSVRI,Civil Settlement,Britannia
+1684,15624,51.833333,-0.25,Dressel 20,St Albans,CAPACAPN,Civil Settlement,Britannia
+1685,15648,51.833333,-0.25,Dressel 20,St Albans,TATILIASI,Civil Settlement,Britannia
+1686,15664,51.833333,-0.25,Dressel 20,St Albans,PATVPTM,Civil Settlement,Britannia
+1687,15725,51.833333,-0.25,Dressel 20,St Albans,QCC,Civil Settlement,Britannia
+1688,15736,51.833333,-0.25,Dressel 20,St Albans,QCCIL,Civil Settlement,Britannia
+1689,15761,51.833333,-0.25,Dressel 20,St Albans,ICI,Civil Settlement,Britannia
+1690,15787,51.833333,-0.25,Dressel 20,St Albans,QCR,Civil Settlement,Britannia
+1691,15821,51.833333,-0.25,Dressel 20,St Albans,MMCS,Civil Settlement,Britannia
+1692,15910,51.833333,-0.25,Dressel 20,St Albans,FIGED,Civil Settlement,Britannia
+1693,15948,51.833333,-0.25,Dressel 20,St Albans,QFA,Civil Settlement,Britannia
+1694,15950,51.833333,-0.25,Dressel 20,St Albans,QFAT,Civil Settlement,Britannia
+1695,15977,51.833333,-0.25,Dressel 20,St Albans,LFCRESCCVFP,Civil Settlement,Britannia
+1696,15978,51.833333,-0.25,Dressel 20,St Albans,LFCCCESCCFP,Civil Settlement,Britannia
+1697,15980,51.833333,-0.25,Dressel 20,St Albans,MF,Civil Settlement,Britannia
+1698,15982,51.833333,-0.25,Dressel 20,St Albans,QFC,Civil Settlement,Britannia
+1699,15985,51.833333,-0.25,Dressel 20,St Albans,QFC,Civil Settlement,Britannia
+1700,16079,51.833333,-0.25,Dressel 20,St Albans,DIA,Civil Settlement,Britannia
+1701,16080,51.833333,-0.25,Dressel 20,St Albans,DIA,Civil Settlement,Britannia
+1702,16091,51.833333,-0.25,Dressel 20,St Albans,QIAF,Civil Settlement,Britannia
+1703,16121,51.833333,-0.25,Dressel 20,St Albans,LIDFITA,Civil Settlement,Britannia
+1704,16157,51.833333,-0.25,Dressel 20,St Albans,QIM,Civil Settlement,Britannia
+1705,16207,51.833333,-0.25,Dressel 20,St Albans,LIT,Civil Settlement,Britannia
+1706,16221,51.833333,-0.25,Dressel 20,St Albans,IVLIANTCRI,Civil Settlement,Britannia
+1707,16254,51.833333,-0.25,Dressel 20,St Albans,LIVNIMELISSIP,Civil Settlement,Britannia
+1708,16272,51.833333,-0.25,Dressel 20,St Albans,LIVNIMELISSIP,Civil Settlement,Britannia
+1709,16286,51.833333,-0.25,Dressel 20,St Albans,IIIVNMELISSIETMELISSEHEDERA,Civil Settlement,Britannia
+1710,16288,51.833333,-0.25,Dressel 20,St Albans,IIIVNIMELISSETMELISSE,Civil Settlement,Britannia
+1711,16297,51.833333,-0.25,Dressel 20,St Albans,IIIVNIMELISSIETMELIISSE,Civil Settlement,Britannia
+1712,16304,51.833333,-0.25,Dressel 20,St Albans,TALFM,Civil Settlement,Britannia
+1713,16305,51.833333,-0.25,Dressel 20,St Albans,MLFN,Civil Settlement,Britannia
+1714,16341,51.833333,-0.25,Dressel 20,St Albans,LICISPECFCPM,Civil Settlement,Britannia
+1715,16347,51.833333,-0.25,Dressel 20,St Albans,LMA,Civil Settlement,Britannia
+1716,16379,51.833333,-0.25,Dressel 20,St Albans,QMR,Civil Settlement,Britannia
+1717,16393,51.833333,-0.25,Dressel 20,St Albans,QMR,Civil Settlement,Britannia
+1718,16498,51.833333,-0.25,Dressel 20,St Albans,SNR,Civil Settlement,Britannia
+1719,16509,51.833333,-0.25,Dressel 20,St Albans,SNR,Civil Settlement,Britannia
+1720,16518,51.833333,-0.25,Dressel 20,St Albans,SNTE,Civil Settlement,Britannia
+1721,16552,51.833333,-0.25,Dressel 20,St Albans,DOMS,Civil Settlement,Britannia
+1722,16591,51.833333,-0.25,Dressel 20,St Albans,APCO,Civil Settlement,Britannia
+1723,16595,51.833333,-0.25,Dressel 20,St Albans,MPFFINES,Civil Settlement,Britannia
+1724,16600,51.833333,-0.25,Dressel 20,St Albans,APM,Civil Settlement,Britannia
+1725,16615,51.833333,-0.25,Dressel 20,St Albans,OPRVI,Civil Settlement,Britannia
+1726,16674,51.833333,-0.25,Dressel 20,St Albans,LQS,Civil Settlement,Britannia
+1727,16685,51.833333,-0.25,Dressel 20,St Albans,GRADOS,Civil Settlement,Britannia
+1728,16774,51.833333,-0.25,Dressel 20,St Albans,FIGLINACIRCIMSMAVRIANI,Civil Settlement,Britannia
+1729,16783,51.833333,-0.25,Dressel 20,St Albans,MSP,Civil Settlement,Britannia
+1730,16796,51.833333,-0.25,Dressel 20,St Albans,QSP,Civil Settlement,Britannia
+1731,16816,51.833333,-0.25,Dressel 20,St Albans,SAENB,Civil Settlement,Britannia
+1732,16823,51.833333,-0.25,Dressel 20,St Albans,SNNA,Civil Settlement,Britannia
+1733,16826,51.833333,-0.25,Dressel 20,St Albans,SAENA,Civil Settlement,Britannia
+1734,16827,51.833333,-0.25,Dressel 20,St Albans,AEN,Civil Settlement,Britannia
+1735,16861,51.833333,-0.25,Dressel 20,St Albans,SAXOFERREO,Civil Settlement,Britannia
+1736,16924,51.833333,-0.25,Dressel 20,St Albans,FSCIMNIANO,Civil Settlement,Britannia
+1737,16933,51.833333,-0.25,Dressel 20,St Albans,FSCIMNIANO,Civil Settlement,Britannia
+1738,16971,51.833333,-0.25,Dressel 20,St Albans,POLYICLITI,Civil Settlement,Britannia
+1739,16972,51.833333,-0.25,Dressel 20,St Albans,POLYCLITI,Civil Settlement,Britannia
+1740,16993,51.833333,-0.25,Dressel 20,St Albans,STATANIENSA,Civil Settlement,Britannia
+1741,17012,51.833333,-0.25,Dressel 20,St Albans,VV,Civil Settlement,Britannia
+1742,17065,51.833333,-0.25,Dressel 20,St Albans,LVARIONIS,Civil Settlement,Britannia
+1743,17109,51.833333,-0.25,Dressel 20,St Albans,APIM,Civil Settlement,Britannia
+1744,17115,51.833333,-0.25,Dressel 20,St Albans,C,Civil Settlement,Britannia
+1745,17116,51.833333,-0.25,Dressel 20,St Albans,C,Civil Settlement,Britannia
+1746,17118,51.833333,-0.25,Dressel 20,St Albans,C,Civil Settlement,Britannia
+1747,17137,51.833333,-0.25,Dressel 20,St Albans,MA,Civil Settlement,Britannia
+1748,17172,51.833333,-0.25,Dressel 20,St Albans,NOMBRE,Civil Settlement,Britannia
+1749,17176,51.833333,-0.25,Dressel 20,St Albans,AENA,Civil Settlement,Britannia
+1750,32498,51.833333,-0.25,Dressel 20,St Albans,NI,Civil Settlement,Britannia
+1751,32498,51.833333,-0.25,Dressel 20,St Albans,OF,Civil Settlement,Britannia
+1752,32499,51.833333,-0.25,Dressel 20,St Albans,VALFAVS,Civil Settlement,Britannia
+1753,37019,51.833333,-0.25,Dressel 20,St Albans,ALFO,Civil Settlement,Britannia
+1758,15543,56.416667,-3.533333,Dressel 20,Tayside,AGRICOL,Military Camp,Britannia
+1759,16040,56.416667,-3.533333,Dressel 20,Tayside,MFELICIS,Military Camp,Britannia
+1760,16512,56.416667,-3.533333,Dressel 20,Tayside,SNR,Military Camp,Britannia
+1761,16819,56.416667,-3.533333,Dressel 20,Tayside,ROSAENI,Military Camp,Britannia
+1762,17008,56.416667,-3.533333,Dressel 20,Tayside,CTYC,Military Camp,Britannia
+1763,17145,56.416667,-3.533333,Dressel 20,Tayside,PO,Military Camp,Britannia
+1764,17152,56.416667,-3.533333,Dressel 20,Tayside,Q,Military Camp,Britannia
+1774,15426,53.383333,-2.6,Dressel 20,Warrington,LAL,Civil Settlement,Britannia
+1775,15429,53.383333,-2.6,Dressel 20,Warrington,LA,Civil Settlement,Britannia
+1776,15649,53.383333,-2.6,Dressel 20,Warrington,TATIL,Civil Settlement,Britannia
+1777,15716,53.383333,-2.6,Dressel 20,Warrington,MC,Civil Settlement,Britannia
+1778,15873,53.383333,-2.6,Dressel 20,Warrington,PCI,Civil Settlement,Britannia
+1779,16129,53.383333,-2.6,Dressel 20,Warrington,MIM,Civil Settlement,Britannia
+1780,16324,53.383333,-2.6,Dressel 20,Warrington,MLPIG,Civil Settlement,Britannia
+1781,16340,53.383333,-2.6,Dressel 20,Warrington,LICISPECFCLICISPECFK,Civil Settlement,Britannia
+1782,16435,53.383333,-2.6,Dressel 20,Warrington,IIIMINICIOR,Civil Settlement,Britannia
+1783,16451,53.383333,-2.6,Dressel 20,Warrington,AN,Civil Settlement,Britannia
+1784,16597,53.383333,-2.6,Dressel 20,Warrington,APH,Civil Settlement,Britannia
+1785,16610,53.383333,-2.6,Dressel 20,Warrington,QPPHRY,Civil Settlement,Britannia
+1786,16757,53.383333,-2.6,Dressel 20,Warrington,CSL,Civil Settlement,Britannia
+1787,16829,53.383333,-2.6,Dressel 20,Warrington,QSASER,Civil Settlement,Britannia
+1788,17131,53.383333,-2.6,Dressel 20,Warrington,LLV,Civil Settlement,Britannia
+1789,37055,53.383333,-2.6,Dressel 20,Warrington,AIM,Civil Settlement,Britannia
+1790,15722,54.316667,-2.75,Dressel 20,Watercrook,QCC,Military Camp,Britannia
+1791,15782,54.316667,-2.75,Dressel 20,Watercrook,QCR,Military Camp,Britannia
+1792,15801,54.316667,-2.75,Dressel 20,Watercrook,MMCS,Military Camp,Britannia
+1793,15886,54.316667,-2.75,Dressel 20,Watercrook,QDC,Military Camp,Britannia
+1794,16002,54.316667,-2.75,Dressel 20,Watercrook,LFFPC,Military Camp,Britannia
+1795,17089,54.316667,-2.75,Dressel 20,Watercrook,VIRGINENSIA,Military Camp,Britannia
+1799,15478,51.016667,-1.316667,Dressel 20,Winchester,MASFGA,Civil Settlement,Britannia
+1800,15522,51.016667,-1.316667,Dressel 20,Winchester,SAEQARR,Civil Settlement,Britannia
+1801,15556,51.016667,-1.316667,Dressel 20,Winchester,PANRVF,Civil Settlement,Britannia
+1802,15875,51.016667,-1.316667,Dressel 20,Winchester,PCLOD,Civil Settlement,Britannia
+1803,15990,51.016667,-1.316667,Dressel 20,Winchester,SFE,Civil Settlement,Britannia
+1804,15991,51.016667,-1.316667,Dressel 20,Winchester,SFE,Civil Settlement,Britannia
+1805,16066,51.016667,-1.316667,Dressel 20,Winchester,HEV,Civil Settlement,Britannia
+1806,16260,51.016667,-1.316667,Dressel 20,Winchester,LIVNIMELISSIP,Civil Settlement,Britannia
+1807,16278,51.016667,-1.316667,Dressel 20,Winchester,MSSI,Civil Settlement,Britannia
+1808,16399,51.016667,-1.316667,Dressel 20,Winchester,QMS,Civil Settlement,Britannia
+1809,16621,51.016667,-1.316667,Dressel 20,Winchester,PASSERAR,Civil Settlement,Britannia
+1810,16775,51.016667,-1.316667,Dressel 20,Winchester,FIGILNACIRGIMSMAVRIAX,Civil Settlement,Britannia
+1811,16879,51.016667,-1.316667,Dressel 20,Winchester,SCALEMSCP,Civil Settlement,Britannia
+1812,16922,51.016667,-1.316667,Dressel 20,Winchester,FSCIMNIANO,Civil Settlement,Britannia
+1813,17126,51.016667,-1.316667,Dressel 20,Winchester,I,Civil Settlement,Britannia
+1814,17149,51.016667,-1.316667,Dressel 20,Winchester,PCVCC,Civil Settlement,Britannia
+1815,17165,51.016667,-1.316667,Dressel 20,Winchester,SO,Civil Settlement,Britannia
+1816,17183,51.016667,-1.316667,Dressel 20,Winchester,CCCA,Civil Settlement,Britannia
+1817,17186,51.016667,-1.316667,Dressel 20,Winchester,COL,Civil Settlement,Britannia
+1818,33309,51.016667,-1.316667,Dressel 20,Winchester,SOND,Civil Settlement,Britannia
+1825,15390,52.666667,-2.65,Dressel 20,Wroxeter,GAF,Civil Settlement,Britannia
+1826,15419,52.666667,-2.65,Dressel 20,Wroxeter,PORPAHCR,Civil Settlement,Britannia
+1827,15445,52.666667,-2.65,Dressel 20,Wroxeter,LAN,Civil Settlement,Britannia
+1828,15468,52.666667,-2.65,Dressel 20,Wroxeter,MAR,Civil Settlement,Britannia
+1829,15499,52.666667,-2.65,Dressel 20,Wroxeter,ACIRGIPALMA,Civil Settlement,Britannia
+1830,15560,52.666667,-2.65,Dressel 20,Wroxeter,PANRVF,Civil Settlement,Britannia
+1831,15618,52.666667,-2.65,Dressel 20,Wroxeter,QANTR,Civil Settlement,Britannia
+1832,15623,52.666667,-2.65,Dressel 20,Wroxeter,LAPAE,Civil Settlement,Britannia
+1833,15631,52.666667,-2.65,Dressel 20,Wroxeter,CAPF,Civil Settlement,Britannia
+1834,15662,52.666667,-2.65,Dressel 20,Wroxeter,PATVIC,Civil Settlement,Britannia
+1835,15667,52.666667,-2.65,Dressel 20,Wroxeter,DATSCOL,Civil Settlement,Britannia
+1836,15720,52.666667,-2.65,Dressel 20,Wroxeter,QC,Civil Settlement,Britannia
+1837,15737,52.666667,-2.65,Dressel 20,Wroxeter,QCCLE,Civil Settlement,Britannia
+1838,15790,52.666667,-2.65,Dressel 20,Wroxeter,QCR,Civil Settlement,Britannia
+1839,15796,52.666667,-2.65,Dressel 20,Wroxeter,QCRV,Civil Settlement,Britannia
+1840,15812,52.666667,-2.65,Dressel 20,Wroxeter,MMCSA,Civil Settlement,Britannia
+1841,15870,52.666667,-2.65,Dressel 20,Wroxeter,PCLODIICELI,Civil Settlement,Britannia
+1842,15891,52.666667,-2.65,Dressel 20,Wroxeter,MEEVPRO,Civil Settlement,Britannia
+1843,15930,52.666667,-2.65,Dressel 20,Wroxeter,IIIENNIVLHEDERA,Civil Settlement,Britannia
+1844,15942,52.666667,-2.65,Dressel 20,Wroxeter,EVTSTERPAVL,Civil Settlement,Britannia
+1845,15944,52.666667,-2.65,Dressel 20,Wroxeter,EVTYCYSF,Civil Settlement,Britannia
+1846,15968,52.666667,-2.65,Dressel 20,Wroxeter,LFCCVCAT,Civil Settlement,Britannia
+1847,15981,52.666667,-2.65,Dressel 20,Wroxeter,QFC,Civil Settlement,Britannia
+1848,15984,52.666667,-2.65,Dressel 20,Wroxeter,QFC,Civil Settlement,Britannia
+1849,15995,52.666667,-2.65,Dressel 20,Wroxeter,SFE,Civil Settlement,Britannia
+1850,16010,52.666667,-2.65,Dressel 20,Wroxeter,QFLVPI,Civil Settlement,Britannia
+1851,16049,52.666667,-2.65,Dressel 20,Wroxeter,PHILO,Civil Settlement,Britannia
+1852,16094,52.666667,-2.65,Dressel 20,Wroxeter,QIAL,Civil Settlement,Britannia
+1853,16107,52.666667,-2.65,Dressel 20,Wroxeter,CIALB,Civil Settlement,Britannia
+1854,16108,52.666667,-2.65,Dressel 20,Wroxeter,CIALB,Civil Settlement,Britannia
+1855,16110,52.666667,-2.65,Dressel 20,Wroxeter,GIALB,Civil Settlement,Britannia
+1856,16151,52.666667,-2.65,Dressel 20,Wroxeter,QIM,Civil Settlement,Britannia
+1857,16165,52.666667,-2.65,Dressel 20,Wroxeter,QIMFN,Civil Settlement,Britannia
+1858,16215,52.666667,-2.65,Dressel 20,Wroxeter,T,Civil Settlement,Britannia
+1859,16226,52.666667,-2.65,Dressel 20,Wroxeter,IVLINIGRI,Civil Settlement,Britannia
+1860,16247,52.666667,-2.65,Dressel 20,Wroxeter,LIVNIMELISSI,Civil Settlement,Britannia
+1861,16298,52.666667,-2.65,Dressel 20,Wroxeter,IIIVNIMETMEL,Civil Settlement,Britannia
+1862,16377,52.666667,-2.65,Dressel 20,Wroxeter,QMR,Civil Settlement,Britannia
+1863,16423,52.666667,-2.65,Dressel 20,Wroxeter,CMARISIL,Civil Settlement,Britannia
+1864,16443,52.666667,-2.65,Dressel 20,Wroxeter,IN,Civil Settlement,Britannia
+1865,16444,52.666667,-2.65,Dressel 20,Wroxeter,IN,Civil Settlement,Britannia
+1866,16446,52.666667,-2.65,Dressel 20,Wroxeter,GNAC,Civil Settlement,Britannia
+1867,16448,52.666667,-2.65,Dressel 20,Wroxeter,GNACOR,Civil Settlement,Britannia
+1868,16507,52.666667,-2.65,Dressel 20,Wroxeter,SNR,Civil Settlement,Britannia
+1869,16513,52.666667,-2.65,Dressel 20,Wroxeter,SNR,Civil Settlement,Britannia
+1870,16515,52.666667,-2.65,Dressel 20,Wroxeter,SNRVF,Civil Settlement,Britannia
+1871,16593,52.666667,-2.65,Dressel 20,Wroxeter,MPFFMPF,Civil Settlement,Britannia
+1872,16646,52.666667,-2.65,Dressel 20,Wroxeter,PQFF,Civil Settlement,Britannia
+1873,16652,52.666667,-2.65,Dressel 20,Wroxeter,LQS,Civil Settlement,Britannia
+1874,16653,52.666667,-2.65,Dressel 20,Wroxeter,LQS,Civil Settlement,Britannia
+1875,16665,52.666667,-2.65,Dressel 20,Wroxeter,LQS,Civil Settlement,Britannia
+1876,16694,52.666667,-2.65,Dressel 20,Wroxeter,RIVESRM,Civil Settlement,Britannia
+1877,16695,52.666667,-2.65,Dressel 20,Wroxeter,RIVESRM,Civil Settlement,Britannia
+1878,16718,52.666667,-2.65,Dressel 20,Wroxeter,RVFIPO,Civil Settlement,Britannia
+1879,16726,52.666667,-2.65,Dressel 20,Wroxeter,PORPS,Civil Settlement,Britannia
+1880,16745,52.666667,-2.65,Dressel 20,Wroxeter,PSAVITI,Civil Settlement,Britannia
+1881,16776,52.666667,-2.65,Dressel 20,Wroxeter,PSMARN,Civil Settlement,Britannia
+1882,16865,52.666667,-2.65,Dressel 20,Wroxeter,SAXFER,Civil Settlement,Britannia
+1883,16878,52.666667,-2.65,Dressel 20,Wroxeter,SCAV,Civil Settlement,Britannia
+1884,16934,52.666667,-2.65,Dressel 20,Wroxeter,FSCIMNIANOHEDERA,Civil Settlement,Britannia
+1885,16942,52.666667,-2.65,Dressel 20,Wroxeter,LSELSENC,Civil Settlement,Britannia
+1886,16955,52.666667,-2.65,Dressel 20,Wroxeter,CSEMPOL,Civil Settlement,Britannia
+1887,16957,52.666667,-2.65,Dressel 20,Wroxeter,CSEMPPOLYCLITI,Civil Settlement,Britannia
+1888,16958,52.666667,-2.65,Dressel 20,Wroxeter,CSEMPO,Civil Settlement,Britannia
+1889,16988,52.666667,-2.65,Dressel 20,Wroxeter,SILVESTRI,Civil Settlement,Britannia
+1890,17005,52.666667,-2.65,Dressel 20,Wroxeter,CTYC,Civil Settlement,Britannia
+1891,17020,52.666667,-2.65,Dressel 20,Wroxeter,LVC,Civil Settlement,Britannia
+1892,17039,52.666667,-2.65,Dressel 20,Wroxeter,CVVA,Civil Settlement,Britannia
+1893,17102,52.666667,-2.65,Dressel 20,Wroxeter,VRITTIA,Civil Settlement,Britannia
+1894,17130,52.666667,-2.65,Dressel 20,Wroxeter,LF,Civil Settlement,Britannia
+1895,17146,52.666667,-2.65,Dressel 20,Wroxeter,PO,Civil Settlement,Britannia
+1896,20707,52.666667,-2.65,Dressel 20,Wroxeter,QSEPSA,Civil Settlement,Britannia
+1897,15405,53.966667,-1.083333,Dressel 20,York,QAGSVBVR,Military Camp,Britannia
+1898,15424,53.966667,-1.083333,Dressel 20,York,LAT,Military Camp,Britannia
+1899,15435,53.966667,-1.083333,Dressel 20,York,SALS,Military Camp,Britannia
+1900,15488,53.966667,-1.083333,Dressel 20,York,ACIRGI,Military Camp,Britannia
+1901,15500,53.966667,-1.083333,Dressel 20,York,ACIRGIPALMA,Military Camp,Britannia
+1902,15526,53.966667,-1.083333,Dressel 20,York,AEMEVP,Military Camp,Britannia
+1903,15532,53.966667,-1.083333,Dressel 20,York,MAEMRVS,Military Camp,Britannia
+1904,15683,53.966667,-1.083333,Dressel 20,York,ARAXIFM,Military Camp,Britannia
+1905,15685,53.966667,-1.083333,Dressel 20,York,AIRXIMM,Military Camp,Britannia
+1906,15696,53.966667,-1.083333,Dressel 20,York,BELSIL,Military Camp,Britannia
+1907,15707,53.966667,-1.083333,Dressel 20,York,CCCOV,Military Camp,Britannia
+1908,15724,53.966667,-1.083333,Dressel 20,York,QRAMUSPALMAECRAMUSPALAMAEC,Military Camp,Britannia
+1909,15735,53.966667,-1.083333,Dressel 20,York,QCCE,Military Camp,Britannia
+1910,15765,53.966667,-1.083333,Dressel 20,York,LCM,Military Camp,Britannia
+1911,15776,53.966667,-1.083333,Dressel 20,York,LCOC,Military Camp,Britannia
+1912,15851,53.966667,-1.083333,Dressel 20,York,LFCARES,Military Camp,Britannia
+1913,15889,53.966667,-1.083333,Dressel 20,York,VECAT,Military Camp,Britannia
+1914,15899,53.966667,-1.083333,Dressel 20,York,CEFP,Military Camp,Britannia
+1915,15907,53.966667,-1.083333,Dressel 20,York,MFS,Military Camp,Britannia
+1916,15927,53.966667,-1.083333,Dressel 20,York,IIIENNIVLHEDERA,Military Camp,Britannia
+1917,16024,53.966667,-1.083333,Dressel 20,York,PORLFS,Military Camp,Britannia
+1918,16070,53.966667,-1.083333,Dressel 20,York,HISPSAENI,Military Camp,Britannia
+1919,16075,53.966667,-1.083333,Dressel 20,York,HISPSAENICORONA,Military Camp,Britannia
+1920,16077,53.966667,-1.083333,Dressel 20,York,CENHISPSAE,Military Camp,Britannia
+1921,16101,53.966667,-1.083333,Dressel 20,York,CIALB,Military Camp,Britannia
+1922,16198,53.966667,-1.083333,Dressel 20,York,LIT,Military Camp,Britannia
+1923,16224,53.966667,-1.083333,Dressel 20,York,PIVLICRISPI,Military Camp,Britannia
+1924,16253,53.966667,-1.083333,Dressel 20,York,IIIVNIMELISSETMELISSE,Military Camp,Britannia
+1925,16259,53.966667,-1.083333,Dressel 20,York,LIVNIMELISSI,Military Camp,Britannia
+1926,16264,53.966667,-1.083333,Dressel 20,York,VNMELISI,Military Camp,Britannia
+1927,16273,53.966667,-1.083333,Dressel 20,York,LIVNMELISSI,Military Camp,Britannia
+1928,16299,53.966667,-1.083333,Dressel 20,York,IIIVNMELISSIETMELISSEHEDERA,Military Camp,Britannia
+1929,16327,53.966667,-1.083333,Dressel 20,York,CLPVHEDERA,Military Camp,Britannia
+1930,16346,53.966667,-1.083333,Dressel 20,York,RM,Military Camp,Britannia
+1931,16427,53.966667,-1.083333,Dressel 20,York,MARS,Military Camp,Britannia
+1932,16439,53.966667,-1.083333,Dressel 20,York,PMOCVFIGEDO,Military Camp,Britannia
+1933,16464,53.966667,-1.083333,Dressel 20,York,PNN,Military Camp,Britannia
+1934,16472,53.966667,-1.083333,Dressel 20,York,PNN,Military Camp,Britannia
+1935,16476,53.966667,-1.083333,Dressel 20,York,PNN,Military Camp,Britannia
+1936,16495,53.966667,-1.083333,Dressel 20,York,PALMAPNNARPALMA,Military Camp,Britannia
+1937,16501,53.966667,-1.083333,Dressel 20,York,SNR,Military Camp,Britannia
+1938,16686,53.966667,-1.083333,Dressel 20,York,FIGBA,Military Camp,Britannia
+1939,16716,53.966667,-1.083333,Dressel 20,York,ROMVLHEDERAF,Military Camp,Britannia
+1940,16852,53.966667,-1.083333,Dressel 20,York,SAXOFERREO,Military Camp,Britannia
+1941,16853,53.966667,-1.083333,Dressel 20,York,SAXOFERREO,Military Camp,Britannia
+1942,16855,53.966667,-1.083333,Dressel 20,York,SAXOFERREO,Military Camp,Britannia
+1943,16866,53.966667,-1.083333,Dressel 20,York,SAXOFER,Military Camp,Britannia
+1944,16895,53.966667,-1.083333,Dressel 20,York,FSCIMNIANI,Military Camp,Britannia
+1945,17129,53.966667,-1.083333,Dressel 20,York,ISM,Military Camp,Britannia
+1946,17143,53.966667,-1.083333,Dressel 20,York,PE,Military Camp,Britannia
+1947,17170,53.966667,-1.083333,Dressel 20,York,AA,Military Camp,Britannia
